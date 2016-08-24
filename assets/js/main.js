@@ -104,6 +104,16 @@ $(document).ready(function() {
             .text(function(d) {
                 return d[1]+"%";
             });
+
+        bar.on("mousemove", function(d){
+                div.style("left", d3.event.pageX+10+"px");
+                div.style("top", d3.event.pageY-25+"px");
+                div.style("display", "inline-block");
+                div.html("YOOOOOO");
+            });
+    bar.on("mouseout", function(d){
+                div.style("display", "none");
+            });
     }
     $(window).resize(function() {
         if ($(window).width() < 1024) {

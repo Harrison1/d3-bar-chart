@@ -1,0 +1,252 @@
+var afghan = [
+  {
+    "Ancestry": "Afghan",
+    "State": "New Hampshire",
+    "per capita": 0
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "North Dakota",
+    "per capita": 0
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Montana",
+    "per capita": 0
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Arkansas",
+    "per capita": 0.004638876
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Vermont",
+    "per capita": 0.013211168
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Hawaii",
+    "per capita": 0.030591068
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "District of Columbia",
+    "per capita": 0.035187732
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "West Virginia",
+    "per capita": 0.046894833
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Oklahoma",
+    "per capita": 0.060449761
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Mississippi",
+    "per capita": 0.061019967
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "South Carolina",
+    "per capita": 0.093767398
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Idaho",
+    "per capita": 0.105585307
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Tennessee",
+    "per capita": 0.148013734
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Rhode Island",
+    "per capita": 0.16140774
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "New Mexico",
+    "per capita": 0.164588405
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Kentucky",
+    "per capita": 0.165602937
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "South Dakota",
+    "per capita": 0.184751102
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Alaska",
+    "per capita": 0.199064575
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Iowa",
+    "per capita": 0.454542168
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Oregon",
+    "per capita": 0.545075943
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Kansas",
+    "per capita": 0.577778372
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Michigan",
+    "per capita": 0.63036301
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Louisiana",
+    "per capita": 0.699201332
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Maine",
+    "per capita": 0.71280286
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Illinois",
+    "per capita": 0.854952853
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Alabama",
+    "per capita": 0.882274694
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Massachusetts",
+    "per capita": 0.916257588
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Ohio",
+    "per capita": 1.106225782
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Minnesota",
+    "per capita": 1.128894729
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Florida",
+    "per capita": 1.318168552
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Indiana",
+    "per capita": 1.319547389
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Nebraska",
+    "per capita": 2.021768174
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Maryland",
+    "per capita": 2.287482092
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Wisconsin",
+    "per capita": 2.533582811
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Delaware",
+    "per capita": 2.913978446
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Colorado",
+    "per capita": 4.401284853
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Arizona",
+    "per capita": 5.208387763
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Washington",
+    "per capita": 5.480115396
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Utah",
+    "per capita": 6.54364612
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Nevada",
+    "per capita": 6.655044833
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Connecticut",
+    "per capita": 8.636040076
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Texas",
+    "per capita": 8.953747016
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "North Carolina",
+    "per capita": 9.249718046
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "New York",
+    "per capita": 9.70236819
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Pennsylvania",
+    "per capita": 10.538556237
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Georgia",
+    "per capita": 12.764509591
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Missouri",
+    "per capita": 15.592348026
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "New Jersey",
+    "per capita": 16.949786437
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "Virginia",
+    "per capita": 17.204486846
+  },
+  {
+    "Ancestry": "Afghan",
+    "State": "California",
+    "per capita": 75.410773907
+  }
+]
