@@ -1,0 +1,568 @@
+#embed body,
+#embed html {
+    height: 100%;
+}
+
+#embed body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    color: #222;
+    font-size: 14px;
+    background-color: #fff;
+    line-height: 160%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-smoothing: antialiased;
+}
+
+#embed p {
+    margin: 16px 0;
+    line-height: 165%;
+}
+#embed .container {
+    width: 100% !important;
+    max-width: 800px !important;
+}
+
+#interactive a {
+    color: #428bca;
+    text-decoration: none;
+}
+
+#interactive a:hover,
+#interactive a:focus {
+    color: #2a6496;
+    text-decoration: none;
+}
+
+
+#interactive h1,
+#interactive h2,
+#interactive h3,
+#interactive h4,
+#interactive h5,
+#interactive h6 {
+    color: #002135;
+    display: block;
+    font-family: 'Oswald', Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding: 20px 0px 0px;
+    margin: 0;
+    text-transform: uppercase;
+    line-height: 110%;
+}
+
+#interactive h2 {
+    font-size: 26px;
+}
+
+#interactive .h1,
+#interactive h1 {
+    font-size: 28px;
+}
+
+#interactive h1.normal,
+#interactive h2.normal,
+#interactive h3.normal,
+#interactive h4.normal,
+#interactive h5.normal,
+#interactive h6.normal {
+    letter-spacing: 0px;
+    text-transform: capitalize;
+}
+
+
+#interactive .chart {
+    height: 1200px;
+    width: 100%;
+}
+
+#interactive svg {
+    shape-rendering: crispEdges;
+}
+
+#interactive .bar-to {
+    fill: #0fb118;
+}
+
+#interactive .label {
+    font-family: 'Oswald', Helvetica, sans-serif;
+    letter-spacing: 0.5px;
+    font-size: 12px;
+    fill: #002135;
+}
+#interactive .percent-label {
+    font-family: 'Oswald', Helvetica, sans-serif;
+    letter-spacing: 0.5px;
+    font-size: 11px;
+    fill: #002135;
+}
+#interactive .axis path {
+    fill: none;
+}
+
+#interactive .axis .tick line {
+    stroke-width: 1;
+    stroke: #e4e4e4;
+}
+
+#interactive .tick text {
+    fill: #1d1d1d;
+    font-size: 11px;
+    font-family: 'Oswald', Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+#interactive .title {
+    display: block;
+    float: left;
+    clear: both;
+    text-transform: uppercase;
+    position: relative;
+    padding: 8px 10px;
+    margin: 10px 0px 5px;
+}
+#interactive .table {
+    display: table;
+    width: 100%;
+}
+#interactive .cell {
+    display: table-cell;
+    vertical-align: bottom;
+}
+#interactive .cell:first-child {
+    padding-right: 15px;
+}
+#interactive .cell:last-child {
+    padding-left: 15px;
+}
+#interactive .title h4 {
+    margin: 0px !important;
+    padding: 0px;
+    color: #fff;
+    font-size: 14px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+#interactive .to-title {
+    background-color: #ff3c40;
+    background: url(../images/str4.png) repeat center center;
+}
+
+#interactive .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn) {
+    width: auto;
+    clear: both;
+    display: block;
+    float: left;
+}
+
+#interactive .btn-info {
+    border-radius: 0px;
+    background: #cccccc;
+    color:#232323;
+    font-family: 'Oswald', Helvetica, sans-serif;
+    text-shadow: none;
+    border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    font-size: 19px;
+    font-weight: 900;
+    letter-spacing: 1px;
+    padding: 8px 40px 8px 20px;
+    text-transform: uppercase;
+    border: 1px solid #c1c1c1 !important;
+    border-radius: 6px !important;
+}
+.caret {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 2px;
+    margin-top: -3px;
+    vertical-align: middle;
+    border-top: 7px dashed;
+    border-top: 7px solid\9;
+    border-right: 7px solid transparent;
+    border-left: 7px solid transparent;
+}
+#interactive .btn-group.bootstrap-select {
+    display: block;
+    position: relative;
+}
+
+#interactive .btn-info.active,
+#interactive .btn-info:active,
+#interactive .open>.dropdown-toggle.btn-info {
+     background: #cccccc !important;
+    border: none;
+}
+
+#interactive .btn-info:hover,
+#interactive .btn-info:focus,
+#interactive .btn-info:active {
+    background: #cccccc !important;
+    border: none;
+}
+
+#interactive .state-container {
+    position: relative;
+    width: auto;
+    display: table;
+    margin: auto;
+    text-align: center;
+    padding: 15px 0px 8px;
+}
+#interactive .select-title, #interactive .state-select {
+    display: block;
+    width: auto;
+    margin: auto;
+    text-align: auto;
+}
+
+
+#interactive .title-table {
+    display: table;
+}
+
+#interactive .name-container {
+    display: table-cell;
+    vertical-align: middle;
+    font-family: 'Oswald', Helvetica, sans-serif;
+    letter-spacing: 1px;
+    padding-left: 10px;
+    font-size: 14px;
+    padding-top: 4px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+#interactive .subtitle {
+    text-align: center;
+    font-family: 'Oswald', Helvetica, sans-serif;
+    font-size: 16px;
+    padding-top: 4px;
+    font-weight: 400;
+}
+
+#interactive .canvas-container {
+    padding-top: 10px;
+}
+
+.d3-tip {
+    line-height: 1;
+    font-weight: bold;
+    padding: 12px;
+    font-size: 13px;
+    background: #00538b;
+    margin-top: 5px;
+    color: #fff;
+    border-radius: 0px;
+}
+
+.d3-tip:after {
+    display: none;
+    content: " ";
+}
+
+.d3-tip.n:after {
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+}
+
+#interactive .col-sm-6 {
+    width: 50% !important;
+    float: left;
+}
+
+#interactive .dropdown-menu.open {
+    border-radius: 0px;
+    border: 0px;
+    padding: 0px;
+}
+#interactive .dropdown-menu.open .dropdown-menu.inner {
+    background: #00538b;
+}
+
+#interactive .dropdown-menu li:nth-child(even) {
+    background: #003c74;
+}
+#interactive .dropdown-menu>li:hover {
+    background: #006c99;
+}
+
+#interactive .dropdown-menu>li>a {
+    font-family: 'Oswald', Helvetica, sans-serif;
+    display: block;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 8px 20px;
+    color: #fff;
+    text-shadow: 1px 1px 1px #002852;
+}
+#interactive .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+    background-image:none;
+    background: transparent !important;
+}
+#interactive .dropdown-menu>li:hover>a, .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+    color: #fff;
+    text-shadow: 1px 1px 1px #002852;
+}
+#interactive .dropdown-menu ul > li span {
+    font-weight: 400;
+}
+
+#interactive .bootstrap-select>.dropdown-toggle {
+    width: 100%;
+    padding-right: 35px;
+}
+
+#interactive .select-title {
+    padding-bottom: 10px;
+}
+#interactive .subheader {
+    padding: 15px 0px 5px;
+    font-family: 'Oswald', Helvetica, sans-serif;
+    letter-spacing: 0px;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 500;
+    color: #002135;
+}
+
+#interactive .header {
+    background: #0f6ccd;
+    text-align: center;
+    font-family: 'Oswald', Helvetica, sans-serif;
+    letter-spacing: 0px;
+    font-size: 30px;
+    font-weight: 500;
+    color: #fff;
+    line-height: 120%;
+    padding: 20px 0px 0px;
+}
+#interactive .header_hr {
+    padding-top: 15px;
+}
+#interactive .header_hr img {
+    max-width: 100%;
+}
+#embed {
+    background: #fff;
+}
+#container_to {
+    padding-bottom: 10px;
+}
+
+.wrapper {
+    height: 600px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+@media (max-width: 710px) {
+    #interactive .title h4 {
+        font-size: 15px;
+    }
+    #interactive .name-container {
+        padding-left: 10px;
+        font-size: 15px;
+        padding-top: 0px;
+    }
+    #interactive .subtitle {
+        font-size: 15px;
+        padding-top: 4px;
+    }
+}
+
+@media (max-width: 700px) {
+    #interactive h1 {
+        font-size: 25px;
+    }
+    #interactive .state-container {
+        padding: 18px 0px;
+    }
+    #interactive .select-title {
+        font-size: 20px;
+        padding-right: 10px;
+    }
+    #interactive .btn-info {
+        font-size: 20px;
+        letter-spacing: 1px;
+        padding: 6px 12px;
+    }
+    #interactive .title-table {
+        display: block;
+    }
+    #interactive .title h4 {
+        font-size: 17px;
+    }
+    #interactive .title {
+        display: table;
+        width: auto;
+        margin: auto;
+        display: table;
+        margin: auto;
+        text-align: center;
+        float: none;
+        clear: both;
+    }
+    #interactive .name-container {
+        padding-left: 0px;
+        font-size: 17px;
+        padding-top: 0px;
+        display: block;
+        text-align: center;
+        width: 100%;
+        float: none;
+         clear: both;
+         margin-top: 6px;
+    }
+    #interactive .subtitle {
+        font-size: 16px;
+        padding-top: 4px;
+        font-weight: 700;
+    }
+   .d3-tip {
+        padding: 8px;
+        font-size: 11px;
+    }
+    #interactive .label {
+        letter-spacing: 1px;
+        font-size: 11px;
+    }
+}
+@media (max-width: 550px) {
+    #interactive h1 {
+        font-size: 24px;
+    }
+    #interactive .select-title {
+        font-size: 17px;
+    }
+    #interactive .btn-info {
+        font-size: 17px;
+    }
+    #interactive .title h4 {
+        font-size: 15px;
+    }
+    #interactive .name-container {
+        font-size: 15px;
+         margin-top: 6px;
+    }
+    #interactive .subtitle {
+        font-size: 14px;
+        padding-top: 2px;
+    }
+}
+
+@media (max-width: 500px) {
+    #interactive h1 {
+        font-size: 20px;
+    }
+    #interactive .state-container {
+        padding: 18px 0px;
+    }
+    #interactive .select-title {
+        font-size: 16px;
+        padding-right: 10px;
+    }
+    #interactive .btn-info {
+        font-size: 15px;
+        letter-spacing: 1px;
+        padding: 5px 10px;
+    }
+    #interactive .title h4 {
+        font-size: 14px;
+    }
+    #interactive .title {
+        display: table;
+        width: auto;
+        margin: auto;
+        display: table;
+        margin: auto;
+        text-align: center;
+        float: none;
+        clear: both;
+    }
+    #interactive .name-container {
+        font-size: 14px;
+        padding-top: 0px;
+        display: block;
+        text-align: center;
+        width: 100%;
+        float: none;
+         clear: both;
+         margin-top: 4px;
+    }
+    #interactive .subtitle {
+        font-size: 13px;
+        padding-top: 1px;
+        font-weight: 700;
+    }
+    .d3-tip {
+        padding: 8px;
+        font-size: 11px;
+        max-width: 100%;
+    }
+    #interactive .label {
+        letter-spacing: 1px;
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 360px) {
+    #interactive .title h4 {
+        font-size: 11px;
+        letter-spacing: 0px;
+    }
+    #interactive .subtitle {
+        font-size: 10px;
+            line-height: 120%;
+    }
+    #interactive .title {
+        padding: 6px 7px;
+    }
+    #interactive .name-container {
+    font-size: 11px;
+    margin-top: 2px;
+    }
+    #interactive h1 {
+        font-size: 16px;
+    }
+    #interactive .btn-info {
+        font-weight: normal;
+        font-size: 13px;
+    }
+    #interactive .select-title {
+        font-size: 12px;
+        padding-right: 8px;
+    }
+    #interactive  > .row:last-child {
+        margin-right: -6px;
+        margin-left: -6px;
+    }
+    #interactive  > .row > .col-sm-6 {
+            padding-right: 6px;
+        padding-left: 6px;
+    }
+    #interactive .label {
+        letter-spacing: 1px;
+        font-size: 9px;
+    }
+}
+@media (max-width: 235px) {
+    #interactive .title {
+    padding: 6px 7px;
+    min-height: 55px;
+}
+#interactive .select-title,  #interactive .state-select {
+    display: block;
+    }
+   
+}

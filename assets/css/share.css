@@ -1,0 +1,195 @@
+@import url(http://fonts.googleapis.com/css?family=Merriweather:900|Open+Sans:400italic,700italic,400,700|Abril+Fatface);
+@font-face {
+    font-family: 'fontello';
+    src: url("http://50.112.84.37/themes/blues/Fontello/fontello.eot?67187403");
+    src: url("http://50.112.84.37/themes/blues/Fontello/fontello.eot?67187403#iefix") format("embedded-opentype"), 
+        url("http://50.112.84.37/themes/blues/Fontello/fontello.svg?67187403#fontello") format("svg"), 
+        url("http://50.112.84.37/themes/blues/Fontello/fontello.woff?67187403") format("woff"), 
+        url("http://50.112.84.37/themes/blues/Fontello/fontello.ttf?67187403") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.social-container {
+    margin: auto;
+}
+
+.social-container .blues {
+    height: auto;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: left;
+    color: white;
+    border-radius: 5px;
+    position: relative;
+    width: 49%;
+}
+
+.social-container .blues:hover {
+    cursor: pointer;
+}
+
+.social-container .blues:before {
+    font-family: 'fontello';
+    font-size: 1.33em;
+    display: block;
+    position: absolute;
+    left: 12%;
+    text-align: center;
+        top: 0px;
+    bottom: 0px;
+    margin: auto;
+    display: table;
+}
+
+.social-container .blues.facebook {
+    background-color: #3b5997;
+}
+
+.social-container .blues.facebook:hover {
+    background-image: linear-gradient(#3b5997 0%, #2d4372 100%);
+}
+
+.social-container .blues.facebook:before {
+    content: '\e800';
+}
+
+.social-container .blues.twitter {
+    background-color: #2eb2e3;
+}
+
+.social-container .blues.twitter:hover {
+    background-image: linear-gradient(#2eb2e3 0%, #1a96c4 100%);
+}
+
+.social-container .blues.twitter:before {
+    content: '\e801';
+}
+
+.social-container .blues > a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 15px 42px 15px 56px;
+    color: white !important;
+}
+.social-container .blues {
+    margin: 5px;
+}
+
+.social-container {
+    padding: 0;
+}
+
+.social-container[data-position="left"] {
+    float: left;
+    margin: 10px;
+}
+
+.social-container[data-position="right"] {
+    float: right;
+    margin: 10px;
+}
+
+.social-container > li {
+    display: inline-block;
+}
+
+.social-container[data-orientation="vertical"] {
+    /*         display: inline-block; */
+}
+
+.social-container[data-orientation="vertical"] > li {
+    display: block;
+    width: 100%;
+}
+
+.social-container[data-width="auto"] {
+    display: table;
+}
+
+.social-container[data-width="auto"] > li {
+    width: auto;
+}
+
+.social-container[data-width="span1"] {
+    width: 8.333%;
+}
+
+.social-container[data-width="span2"] {
+    width: 16.666%;
+}
+
+.social-container[data-width="span3"] {
+    width: 25%;
+}
+
+.social-container[data-width="span4"] {
+    width: 33.333%;
+}
+
+.social-container[data-width="span5"] {
+    width: 41.666%;
+}
+
+.social-container[data-width="span6"] {
+    width: 50%;
+}
+
+.social-container[data-width="span7"] {
+    width: 58.333%;
+}
+
+.social-container[data-width="span8"] {
+    width: 66.666%;
+}
+
+.social-container[data-width="span9"] {
+    width: 75%;
+}
+
+.social-container[data-width="span10"] {
+    width: 83.333%;
+}
+
+.social-container[data-width="span11"] {
+    width: 91.666%;
+}
+
+.social-container[data-width="span12"] {
+    width: 100%;
+}
+
+#hover-bar {
+    position: absolute;
+}
+
+#hover-bar.show {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 0.3s;
+    display: block;
+}
+
+#hover-bar.hide {
+    display: none;
+}
+
+@-webkit-keyframes fade {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@media (max-width: 1024px) {
+    .social-container li.blues {
+      display: table;
+      width: auto;
+      margin: 5px auto;
+  }
+}
