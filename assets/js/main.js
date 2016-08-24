@@ -16,8 +16,8 @@ $(document).ready(function() {
             $.each(data, function(index, value) {
                     var entry = [];
                     entry.push(value['Ancestry']);
+                    entry.push(value['percapita']);
                     entry.push(value['State']);
-                    entry.push(value['From_State']);
                     sdata.push(entry);
             });
             chart('chart_to', sdata);
