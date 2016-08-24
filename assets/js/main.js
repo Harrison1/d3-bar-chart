@@ -105,6 +105,8 @@ $(document).ready(function() {
                 return d[1]+"%";
             });
 
+            var div = d3.select("body").append("div").attr("class", "toolTip");
+
         bar.on("mousemove", function(d){
                 div.style("left", d3.event.pageX+10+"px");
                 div.style("top", d3.event.pageY-25+"px");
