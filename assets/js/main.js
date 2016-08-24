@@ -31,9 +31,10 @@ $(document).ready(function() {
     }
     function chart(name, data) {
         clearCanvas();
-        data.sort(function(a, b) {
-            return b[1] - a[1];
-        });
+        data = afghan;
+        // data.sort(function(a, b) {
+        //     return b[1] - a[1];
+        // });
         var chart = document.getElementById(name),
             axisMargin = 20,
             margin = 0,
@@ -105,7 +106,7 @@ $(document).ready(function() {
                 return d[1]+"%";
             });
 
-            var div = d3.select("body").append("div").attr("class", "toolTip");
+        var div = d3.select("body").append("div").attr("class", "toolTip");
 
         bar.on("mousemove", function(d){
                 div.style("left", d3.event.pageX+10+"px");
@@ -113,10 +114,10 @@ $(document).ready(function() {
                 div.style("display", "inline-block");
                 div.html("YOOOOOO");
             });
-    bar.on("mouseout", function(d){
+         bar.on("mouseout", function(d){
                 div.style("display", "none");
             });
-    }
+        }
     $(window).resize(function() {
         if ($(window).width() < 1024) {
             var st = $('#accident_state').find('option:selected').attr('data-abv');
