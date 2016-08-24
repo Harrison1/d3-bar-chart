@@ -2,8 +2,8 @@ $(document).ready(function() {
     $('select').selectpicker({
         style: 'btn-info'
     });
-    setChart('AL');
-    $('.name-container').text('Alabama');
+    setChart('AF');
+    $('.name-container').text('Afghan');
     $('select').change(function() {
         var st = $(this).find('option:selected').attr('data-abv');
         $('.name-container').text($(this).find('option:selected').attr('data-name'));
@@ -14,13 +14,11 @@ $(document).ready(function() {
         $.get('data/' + state + '.json', function(data) {
             var sdata = [];
             $.each(data, function(index, value) {
-                if (value['From'] != value['To']) {
                     var entry = [];
-                    entry.push(value['From']);
-                    entry.push(value['Students']);
+                    entry.push(value['Ancestry']);
+                    entry.push(value['State']);
                     entry.push(value['From_State']);
                     sdata.push(entry);
-                }
             });
             chart('chart_to', sdata);
         });
@@ -31,10 +29,9 @@ $(document).ready(function() {
     }
     function chart(name, data) {
         clearCanvas();
-        data = afghan;
-        // data.sort(function(a, b) {
-        //     return b[1] - a[1];
-        // });
+        data.sort(function(a, b) {
+            return b[1] - a[1];
+        });
         var chart = document.getElementById(name),
             axisMargin = 20,
             margin = 0,
