@@ -100,7 +100,7 @@ $(document).ready(function() {
             })
             .attr("dy", ".35em")
             .text(function(d) {
-                return d[1]+"%";
+                return d[1].toFixed(2)+"%";
             });
 
         var div = d3.select("body").append("div").attr("class", "toolTip");
@@ -109,7 +109,7 @@ $(document).ready(function() {
                 div.style("left", d3.event.pageX+10+"px");
                 div.style("top", d3.event.pageY-25+"px");
                 div.style("display", "inline-block");
-                div.html("In " + d[2] + " there are " + d[1] + " people, per 10K residents, who report " + d[0] + " as their ancestry");
+                div.html("In " + d[2] + " there are " + d[1].toFixed(2) + " people, per 10K residents, who report " + d[0] + " as their ancestry");
             });
         bar.on("mouseout", function(d){
                 div.style("display", "none");
