@@ -109,7 +109,7 @@ $(document).ready(function() {
                 div.style("left", d3.event.pageX+10+"px");
                 div.style("top", d3.event.pageY-25+"px");
                 div.style("display", "inline-block");
-                div.html("In " + d[0] + " there are " + d[1] + " people, per 10K residents, who report " + d[2] + " as their ancestry");
+                div.html("In " + i[2] + " there are " + i[1] + " people, per 10K residents, who report " + i[0] + " as their ancestry");
             });
         bar.on("mouseout", function(d){
                 div.style("display", "none");
