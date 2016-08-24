@@ -1,0 +1,252 @@
+[
+  {
+    "Ancestry": "French",
+    "State": "New Hampshire",
+    "per capita": 225.205928503
+  },
+  {
+    "Ancestry": "French",
+    "State": "North Dakota",
+    "per capita": 26.480566126
+  },
+  {
+    "Ancestry": "French",
+    "State": "Montana",
+    "per capita": 190.974981172
+  },
+  {
+    "Ancestry": "French",
+    "State": "Arkansas",
+    "per capita": 15.235873977
+  },
+  {
+    "Ancestry": "French",
+    "State": "Vermont",
+    "per capita": 103.029092553
+  },
+  {
+    "Ancestry": "French",
+    "State": "Hawaii",
+    "per capita": 122.46828318
+  },
+  {
+    "Ancestry": "French",
+    "State": "District of Columbia",
+    "per capita": 4.895618861
+  },
+  {
+    "Ancestry": "French",
+    "State": "West Virginia",
+    "per capita": 50.451892502
+  },
+  {
+    "Ancestry": "French",
+    "State": "Oklahoma",
+    "per capita": 206.360372763
+  },
+  {
+    "Ancestry": "French",
+    "State": "Mississippi",
+    "per capita": 120.42043087
+  },
+  {
+    "Ancestry": "French",
+    "State": "South Carolina",
+    "per capita": 1018.595247165
+  },
+  {
+    "Ancestry": "French",
+    "State": "Idaho",
+    "per capita": 32.099486203
+  },
+  {
+    "Ancestry": "French",
+    "State": "Tennessee",
+    "per capita": 41.558101623
+  },
+  {
+    "Ancestry": "French",
+    "State": "Rhode Island",
+    "per capita": 236.166425452
+  },
+  {
+    "Ancestry": "French",
+    "State": "New Mexico",
+    "per capita": 17.940642534
+  },
+  {
+    "Ancestry": "French",
+    "State": "Kentucky",
+    "per capita": 155.726979686
+  },
+  {
+    "Ancestry": "French",
+    "State": "South Dakota",
+    "per capita": 31.410741093
+  },
+  {
+    "Ancestry": "French",
+    "State": "Alaska",
+    "per capita": 30.568296679
+  },
+  {
+    "Ancestry": "French",
+    "State": "Iowa",
+    "per capita": 244.388728594
+  },
+  {
+    "Ancestry": "French",
+    "State": "Oregon",
+    "per capita": 100.534839151
+  },
+  {
+    "Ancestry": "French",
+    "State": "Kansas",
+    "per capita": 184.46084328
+  },
+  {
+    "Ancestry": "French",
+    "State": "Michigan",
+    "per capita": 794.085142619
+  },
+  {
+    "Ancestry": "French",
+    "State": "Louisiana",
+    "per capita": 4514.855772809
+  },
+  {
+    "Ancestry": "French",
+    "State": "Maine",
+    "per capita": 361.735738547
+  },
+  {
+    "Ancestry": "French",
+    "State": "Illinois",
+    "per capita": 363.318581354
+  },
+  {
+    "Ancestry": "French",
+    "State": "Alabama",
+    "per capita": 1062.92383119
+  },
+  {
+    "Ancestry": "French",
+    "State": "Massachusetts",
+    "per capita": 493.905222033
+  },
+  {
+    "Ancestry": "French",
+    "State": "Ohio",
+    "per capita": 662.920626882
+  },
+  {
+    "Ancestry": "French",
+    "State": "Minnesota",
+    "per capita": 635.577751956
+  },
+  {
+    "Ancestry": "French",
+    "State": "Florida",
+    "per capita": 454.267028465
+  },
+  {
+    "Ancestry": "French",
+    "State": "Indiana",
+    "per capita": 476.028329717
+  },
+  {
+    "Ancestry": "French",
+    "State": "Nebraska",
+    "per capita": 155.80999465
+  },
+  {
+    "Ancestry": "French",
+    "State": "Maryland",
+    "per capita": 138.590578954
+  },
+  {
+    "Ancestry": "French",
+    "State": "Wisconsin",
+    "per capita": 3210.254847617
+  },
+  {
+    "Ancestry": "French",
+    "State": "Delaware",
+    "per capita": 272.077560393
+  },
+  {
+    "Ancestry": "French",
+    "State": "Colorado",
+    "per capita": 426.251787414
+  },
+  {
+    "Ancestry": "French",
+    "State": "Arizona",
+    "per capita": 546.840261613
+  },
+  {
+    "Ancestry": "French",
+    "State": "Washington",
+    "per capita": 1227.210772588
+  },
+  {
+    "Ancestry": "French",
+    "State": "Utah",
+    "per capita": 868.645082211
+  },
+  {
+    "Ancestry": "French",
+    "State": "Nevada",
+    "per capita": 482.60003482
+  },
+  {
+    "Ancestry": "French",
+    "State": "Connecticut",
+    "per capita": 2183.09046252
+  },
+  {
+    "Ancestry": "French",
+    "State": "Texas",
+    "per capita": 1883.447019303
+  },
+  {
+    "Ancestry": "French",
+    "State": "North Carolina",
+    "per capita": 2219.783578234
+  },
+  {
+    "Ancestry": "French",
+    "State": "New York",
+    "per capita": 450.865469746
+  },
+  {
+    "Ancestry": "French",
+    "State": "Pennsylvania",
+    "per capita": 1981.618180147
+  },
+  {
+    "Ancestry": "French",
+    "State": "Georgia",
+    "per capita": 990.93311242
+  },
+  {
+    "Ancestry": "French",
+    "State": "Missouri",
+    "per capita": 1858.67431825
+  },
+  {
+    "Ancestry": "French",
+    "State": "New Jersey",
+    "per capita": 536.634553974
+  },
+  {
+    "Ancestry": "French",
+    "State": "Virginia",
+    "per capita": 220.797759126
+  },
+  {
+    "Ancestry": "French",
+    "State": "California",
+    "per capita": 1322.704862295
+  }
+]
