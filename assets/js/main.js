@@ -109,7 +109,7 @@ $(document).ready(function() {
                 div.style("left", d3.event.pageX+10+"px");
                 div.style("top", d3.event.pageY-25+"px");
                 div.style("display", "inline-block");
-                div.html("In " + data[1] + " there are " + data[0] + " people, per 10K residents, who report Afghan as their ancestry");
+                div.html("In " + d.State + " there are " + data.percapita + " people, per 10K residents, who report Afghan as their ancestry");
             });
         bar.on("mouseout", function(d){
                 div.style("display", "none");
