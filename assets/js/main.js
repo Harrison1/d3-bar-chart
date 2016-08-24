@@ -100,7 +100,7 @@ $(document).ready(function() {
             })
             .attr("dy", ".35em")
             .text(function(d) {
-                return d[1].toFixed(2)+"%";
+                return d[1].toFixed(2);
             });
 
         var div = d3.select("body").append("div").attr("class", "toolTip");
