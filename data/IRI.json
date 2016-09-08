@@ -1,252 +1,257 @@
 [
   {
     "Ancestry": "Irish",
+    "State": "Wyoming",
+    "per capita": 1247.087663677
+  },
+  {
+    "Ancestry": "Irish",
     "State": "New Hampshire",
-    "percapita": 313.493526363
+    "per capita": 2111.872584908
   },
   {
     "Ancestry": "Irish",
     "State": "North Dakota",
-    "percapita": 48.140603164
+    "per capita": 754.785106331
   },
   {
     "Ancestry": "Irish",
     "State": "Montana",
-    "percapita": 771.569325162
+    "per capita": 1418.268643651
   },
   {
     "Ancestry": "Irish",
     "State": "Arkansas",
-    "percapita": 86.082340055
+    "per capita": 1126.026465352
   },
   {
     "Ancestry": "Irish",
     "State": "Vermont",
-    "percapita": 134.771925404
+    "per capita": 1790.964022714
   },
   {
     "Ancestry": "Irish",
     "State": "Hawaii",
-    "percapita": 392.819909157
+    "per capita": 452.2877143
   },
   {
     "Ancestry": "Irish",
     "State": "District of Columbia",
-    "percapita": 21.206137927
+    "per capita": 640.255701609
   },
   {
     "Ancestry": "Irish",
     "State": "West Virginia",
-    "percapita": 469.146326467
+    "per capita": 1459.818431995
   },
   {
     "Ancestry": "Irish",
     "State": "Oklahoma",
-    "percapita": 1124.17413662
+    "per capita": 1150.89770609
   },
   {
     "Ancestry": "Irish",
     "State": "Mississippi",
-    "percapita": 415.356317851
+    "per capita": 841.176869415
   },
   {
     "Ancestry": "Irish",
     "State": "South Carolina",
-    "percapita": 5327.547103466
+    "per capita": 940.578775048
   },
   {
     "Ancestry": "Irish",
     "State": "Idaho",
-    "percapita": 117.371267443
+    "per capita": 924.957661961
   },
   {
     "Ancestry": "Irish",
     "State": "Tennessee",
-    "percapita": 257.017872714
+    "per capita": 1057.878703114
   },
   {
     "Ancestry": "Irish",
     "State": "Rhode Island",
-    "percapita": 403.883553007
+    "per capita": 1849.706161928
   },
   {
     "Ancestry": "Irish",
     "State": "New Mexico",
-    "percapita": 70.217971261
+    "per capita": 664.824805857
   },
   {
     "Ancestry": "Irish",
     "State": "Kentucky",
-    "percapita": 1179.471429837
+    "per capita": 1242.59962202
   },
   {
     "Ancestry": "Irish",
     "State": "South Dakota",
-    "percapita": 138.425908395
+    "per capita": 1062.619040642
   },
   {
     "Ancestry": "Irish",
     "State": "Alaska",
-    "percapita": 114.479957168
+    "per capita": 1045.997730518
   },
   {
     "Ancestry": "Irish",
     "State": "Iowa",
-    "percapita": 1491.834941965
+    "per capita": 1394.31744963
   },
   {
     "Ancestry": "Irish",
     "State": "Oregon",
-    "percapita": 370.575783973
+    "per capita": 1193.537719014
   },
   {
     "Ancestry": "Irish",
     "State": "Kansas",
-    "percapita": 809.148021608
+    "per capita": 1229.722512337
   },
   {
     "Ancestry": "Irish",
     "State": "Michigan",
-    "percapita": 2009.005395284
+    "per capita": 1106.319483077
   },
   {
     "Ancestry": "Irish",
     "State": "Louisiana",
-    "percapita": 2642.184094448
+    "per capita": 755.824706926
   },
   {
     "Ancestry": "Irish",
     "State": "Maine",
-    "percapita": 391.949544266
+    "per capita": 1761.122751936
   },
   {
     "Ancestry": "Irish",
     "State": "Illinois",
-    "percapita": 2340.725997464
+    "per capita": 1198.814804923
   },
   {
     "Ancestry": "Irish",
     "State": "Alabama",
-    "percapita": 5956.983000603
+    "per capita": 905.00284882
   },
   {
     "Ancestry": "Irish",
     "State": "Massachusetts",
-    "percapita": 1489.025544918
+    "per capita": 2187.571159521
   },
   {
     "Ancestry": "Irish",
     "State": "Ohio",
-    "percapita": 4109.755132153
+    "per capita": 1374.643430492
   },
   {
     "Ancestry": "Irish",
     "State": "Minnesota",
-    "percapita": 1932.163446589
+    "per capita": 1060.081840909
   },
   {
     "Ancestry": "Irish",
     "State": "Florida",
-    "percapita": 1793.67780217
+    "per capita": 910.426260665
   },
   {
     "Ancestry": "Irish",
     "State": "Indiana",
-    "percapita": 2475.7026268
+    "per capita": 1166.058674929
   },
   {
     "Ancestry": "Irish",
     "State": "Nebraska",
-    "percapita": 896.499206262
+    "per capita": 1352.774882634
   },
   {
     "Ancestry": "Irish",
     "State": "Maryland",
-    "percapita": 981.309062402
+    "per capita": 1107.576843411
   },
   {
     "Ancestry": "Irish",
     "State": "Wisconsin",
-    "percapita": 10813.0061816
+    "per capita": 1097.069871911
   },
   {
     "Ancestry": "Irish",
     "State": "Delaware",
-    "percapita": 2398.31049958
+    "per capita": 1688.976436864
   },
   {
     "Ancestry": "Irish",
     "State": "Colorado",
-    "percapita": 1739.817058913
+    "per capita": 1168.356340506
   },
   {
     "Ancestry": "Irish",
     "State": "Arizona",
-    "percapita": 2100.541099236
+    "per capita": 925.647301546
   },
   {
     "Ancestry": "Irish",
     "State": "Washington",
-    "percapita": 4183.360121406
+    "per capita": 1096.161879933
   },
   {
     "Ancestry": "Irish",
     "State": "Utah",
-    "percapita": 2755.832623108
+    "per capita": 586.733775029
   },
   {
     "Ancestry": "Irish",
     "State": "Nevada",
-    "percapita": 1944.780462658
+    "per capita": 908.865805666
   },
   {
     "Ancestry": "Irish",
     "State": "Connecticut",
-    "percapita": 6152.654834152
+    "per capita": 1600.507913277
   },
   {
     "Ancestry": "Irish",
     "State": "Texas",
-    "percapita": 6335.763134484
+    "per capita": 691.677822104
   },
   {
     "Ancestry": "Irish",
     "State": "North Carolina",
-    "percapita": 11706.69468628
+    "per capita": 870.567310984
   },
   {
     "Ancestry": "Irish",
     "State": "New York",
-    "percapita": 2444.959575477
+    "per capita": 1231.252431161
   },
   {
     "Ancestry": "Irish",
     "State": "Pennsylvania",
-    "percapita": 20519.914743838
+    "per capita": 1693.259256183
   },
   {
     "Ancestry": "Irish",
     "State": "Georgia",
-    "percapita": 5654.114194459
+    "per capita": 794.898222235
   },
   {
     "Ancestry": "Irish",
     "State": "Missouri",
-    "percapita": 7930.955988741
+    "per capita": 1338.804460527
   },
   {
     "Ancestry": "Irish",
     "State": "New Jersey",
-    "percapita": 6209.102346982
+    "per capita": 1448.789042506
   },
   {
     "Ancestry": "Irish",
     "State": "Virginia",
-    "percapita": 1158.02099545
+    "per capita": 982.11820416
   },
   {
     "Ancestry": "Irish",
     "State": "California",
-    "percapita": 4757.085035361
+    "per capita": 656.615166549
   }
 ]

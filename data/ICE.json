@@ -1,252 +1,257 @@
 [
   {
     "Ancestry": "Icelander",
+    "State": "Wyoming",
+    "per capita": 4.844621187
+  },
+  {
+    "Ancestry": "Icelander",
     "State": "New Hampshire",
-    "percapita": 0.07607817
+    "per capita": 0.512506284
   },
   {
     "Ancestry": "Icelander",
     "State": "North Dakota",
-    "percapita": 2.610796484
+    "per capita": 40.934059247
   },
   {
     "Ancestry": "Icelander",
     "State": "Montana",
-    "percapita": 2.078125839
+    "per capita": 3.819929874
   },
   {
     "Ancestry": "Icelander",
     "State": "Arkansas",
-    "percapita": 0.076799175
+    "per capita": 1.00459518
   },
   {
     "Ancestry": "Icelander",
     "State": "Vermont",
-    "percapita": 0.057648732
+    "per capita": 0.766085399
   },
   {
     "Ancestry": "Icelander",
     "State": "Hawaii",
-    "percapita": 0.673003505
+    "per capita": 0.774887448
   },
   {
     "Ancestry": "Icelander",
     "State": "District of Columbia",
-    "percapita": 0.038203823
+    "per capita": 1.153449801
   },
   {
     "Ancestry": "Icelander",
     "State": "West Virginia",
-    "percapita": 0.203210941
+    "per capita": 0.632321007
   },
   {
     "Ancestry": "Icelander",
     "State": "Oklahoma",
-    "percapita": 1.33745097
+    "per capita": 1.369244499
   },
   {
     "Ancestry": "Icelander",
     "State": "Mississippi",
-    "percapita": 0.323240906
+    "per capita": 0.654625346
   },
   {
     "Ancestry": "Icelander",
     "State": "South Carolina",
-    "percapita": 1.910510739
+    "per capita": 0.337300791
   },
   {
     "Ancestry": "Icelander",
     "State": "Idaho",
-    "percapita": 0.572179203
+    "per capita": 4.50912348
   },
   {
     "Ancestry": "Icelander",
     "State": "Tennessee",
-    "percapita": 0.130578532
+    "per capita": 0.537457752
   },
   {
     "Ancestry": "Icelander",
     "State": "Rhode Island",
-    "percapita": 0.13450645
+    "per capita": 0.61601273
   },
   {
     "Ancestry": "Icelander",
     "State": "New Mexico",
-    "percapita": 0.21776312
+    "per capita": 2.061784489
   },
   {
     "Ancestry": "Icelander",
     "State": "Kentucky",
-    "percapita": 0.372068936
+    "per capita": 0.391982974
   },
   {
     "Ancestry": "Icelander",
     "State": "South Dakota",
-    "percapita": 0.251933321
+    "per capita": 1.933952589
   },
   {
     "Ancestry": "Icelander",
     "State": "Alaska",
-    "percapita": 0.793287186
+    "per capita": 7.248225949
   },
   {
     "Ancestry": "Icelander",
     "State": "Iowa",
-    "percapita": 1.659767612
+    "per capita": 1.551272784
   },
   {
     "Ancestry": "Icelander",
     "State": "Oregon",
-    "percapita": 1.295044134
+    "per capita": 4.171033532
   },
   {
     "Ancestry": "Icelander",
     "State": "Kansas",
-    "percapita": 0.641220703
+    "per capita": 0.974510859
   },
   {
     "Ancestry": "Icelander",
     "State": "Michigan",
-    "percapita": 1.443971082
+    "per capita": 0.795166277
   },
   {
     "Ancestry": "Icelander",
     "State": "Louisiana",
-    "percapita": 0.458615927
+    "per capita": 0.131191937
   },
   {
     "Ancestry": "Icelander",
     "State": "Maine",
-    "percapita": 0.249313676
+    "per capita": 1.120225789
   },
   {
     "Ancestry": "Icelander",
     "State": "Illinois",
-    "percapita": 1.850881973
+    "per capita": 0.94793868
   },
   {
     "Ancestry": "Icelander",
     "State": "Alabama",
-    "percapita": 1.8867105
+    "per capita": 0.286634757
   },
   {
     "Ancestry": "Icelander",
     "State": "Massachusetts",
-    "percapita": 0.803239031
+    "per capita": 1.180062051
   },
   {
     "Ancestry": "Icelander",
     "State": "Ohio",
-    "percapita": 2.470313052
+    "per capita": 0.826277843
   },
   {
     "Ancestry": "Icelander",
     "State": "Minnesota",
-    "percapita": 12.204086799
+    "per capita": 6.695774534
   },
   {
     "Ancestry": "Icelander",
     "State": "Florida",
-    "percapita": 2.027265985
+    "per capita": 1.028989815
   },
   {
     "Ancestry": "Icelander",
     "State": "Indiana",
-    "percapita": 1.049201095
+    "per capita": 0.494174876
   },
   {
     "Ancestry": "Icelander",
     "State": "Nebraska",
-    "percapita": 0.718537818
+    "per capita": 1.084239568
   },
   {
     "Ancestry": "Icelander",
     "State": "Maryland",
-    "percapita": 0.772377297
+    "per capita": 0.871761244
   },
   {
     "Ancestry": "Icelander",
     "State": "Wisconsin",
-    "percapita": 20.422731716
+    "per capita": 2.072056863
   },
   {
     "Ancestry": "Icelander",
     "State": "Delaware",
-    "percapita": 0.409778219
+    "per capita": 0.288580547
   },
   {
     "Ancestry": "Icelander",
     "State": "Colorado",
-    "percapita": 2.649668013
+    "per capita": 1.779357437
   },
   {
     "Ancestry": "Icelander",
     "State": "Arizona",
-    "percapita": 4.503822687
+    "per capita": 1.984703522
   },
   {
     "Ancestry": "Icelander",
     "State": "Washington",
-    "percapita": 32.345651523
+    "per capita": 8.475500352
   },
   {
     "Ancestry": "Icelander",
     "State": "Utah",
-    "percapita": 71.660905066
+    "per capita": 15.257048994
   },
   {
     "Ancestry": "Icelander",
     "State": "Nevada",
-    "percapita": 5.599884837
+    "per capita": 2.617027444
   },
   {
     "Ancestry": "Icelander",
     "State": "Connecticut",
-    "percapita": 4.627976922
+    "per capita": 1.203889034
   },
   {
     "Ancestry": "Icelander",
     "State": "Texas",
-    "percapita": 6.755236838
+    "per capita": 0.737471936
   },
   {
     "Ancestry": "Icelander",
     "State": "North Carolina",
-    "percapita": 10.588493026
+    "per capita": 0.787412344
   },
   {
     "Ancestry": "Icelander",
     "State": "New York",
-    "percapita": 1.562757065
+    "per capita": 0.786985787
   },
   {
     "Ancestry": "Icelander",
     "State": "Pennsylvania",
-    "percapita": 4.520585724
+    "per capita": 0.373029017
   },
   {
     "Ancestry": "Icelander",
     "State": "Georgia",
-    "percapita": 4.339369707
+    "per capita": 0.610061479
   },
   {
     "Ancestry": "Icelander",
     "State": "Missouri",
-    "percapita": 1.367749827
+    "per capita": 0.230886361
   },
   {
     "Ancestry": "Icelander",
     "State": "New Jersey",
-    "percapita": 3.692032689
+    "per capita": 0.861473399
   },
   {
     "Ancestry": "Icelander",
     "State": "Virginia",
-    "percapita": 1.472768649
+    "per capita": 1.249055852
   },
   {
     "Ancestry": "Icelander",
     "State": "California",
-    "percapita": 10.166423133
+    "per capita": 1.403260099
   }
 ]

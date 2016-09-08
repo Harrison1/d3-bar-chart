@@ -1,252 +1,257 @@
 [
   {
     "Ancestry": "Canadian",
+    "State": "Wyoming",
+    "per capita": 12.770626873
+  },
+  {
+    "Ancestry": "Canadian",
     "State": "New Hampshire",
-    "percapita": 19.535307823
+    "per capita": 131.601062094
   },
   {
     "Ancestry": "Canadian",
     "State": "North Dakota",
-    "percapita": 1.210091664
+    "per capita": 18.972740378
   },
   {
     "Ancestry": "Canadian",
     "State": "Montana",
-    "percapita": 10.85834038
+    "per capita": 19.95937783
   },
   {
     "Ancestry": "Canadian",
     "State": "Arkansas",
-    "percapita": 0.56516977
+    "per capita": 7.392876611
   },
   {
     "Ancestry": "Canadian",
     "State": "Vermont",
-    "percapita": 6.987506679
+    "per capita": 92.855934449
   },
   {
     "Ancestry": "Canadian",
     "State": "Hawaii",
-    "percapita": 10.841474636
+    "per capita": 12.482732338
   },
   {
     "Ancestry": "Canadian",
     "State": "District of Columbia",
-    "percapita": 0.516756976
+    "per capita": 15.601926261
   },
   {
     "Ancestry": "Canadian",
     "State": "West Virginia",
-    "percapita": 2.834532104
+    "per capita": 8.820067383
   },
   {
     "Ancestry": "Canadian",
     "State": "Oklahoma",
-    "percapita": 9.05738924
+    "per capita": 9.272699095
   },
   {
     "Ancestry": "Canadian",
     "State": "Mississippi",
-    "percapita": 2.59087481
+    "per capita": 5.24702254
   },
   {
     "Ancestry": "Canadian",
     "State": "South Carolina",
-    "percapita": 82.984147449
+    "per capita": 14.650856434
   },
   {
     "Ancestry": "Canadian",
     "State": "Idaho",
-    "percapita": 4.082890677
+    "per capita": 32.175685729
   },
   {
     "Ancestry": "Canadian",
     "State": "Tennessee",
-    "percapita": 2.623441414
+    "per capita": 10.798014827
   },
   {
     "Ancestry": "Canadian",
     "State": "Rhode Island",
-    "percapita": 8.85673242
+    "per capita": 40.562068969
   },
   {
     "Ancestry": "Canadian",
     "State": "New Mexico",
-    "percapita": 0.993101112
+    "per capita": 9.402696239
   },
   {
     "Ancestry": "Canadian",
     "State": "Kentucky",
-    "percapita": 7.480091086
+    "per capita": 7.880443833
   },
   {
     "Ancestry": "Canadian",
     "State": "South Dakota",
-    "percapita": 0.984830255
+    "per capita": 7.559996484
   },
   {
     "Ancestry": "Canadian",
     "State": "Alaska",
-    "percapita": 3.443520032
+    "per capita": 31.46327294
   },
   {
     "Ancestry": "Canadian",
     "State": "Iowa",
-    "percapita": 13.756787571
+    "per capita": 12.85754102
   },
   {
     "Ancestry": "Canadian",
     "State": "Oregon",
-    "percapita": 11.341802578
+    "per capita": 36.529287028
   },
   {
     "Ancestry": "Canadian",
     "State": "Kansas",
-    "percapita": 5.809504885
+    "per capita": 8.829137255
   },
   {
     "Ancestry": "Canadian",
     "State": "Michigan",
-    "percapita": 85.472826315
+    "per capita": 47.068192673
   },
   {
     "Ancestry": "Canadian",
     "State": "Louisiana",
-    "percapita": 46.508165995
+    "per capita": 13.304152805
   },
   {
     "Ancestry": "Canadian",
     "State": "Maine",
-    "percapita": 24.988257995
+    "per capita": 112.278200932
   },
   {
     "Ancestry": "Canadian",
     "State": "Illinois",
-    "percapita": 21.948337503
+    "per capita": 11.240953435
   },
   {
     "Ancestry": "Canadian",
     "State": "Alabama",
-    "percapita": 49.583837813
+    "per capita": 7.532926394
   },
   {
     "Ancestry": "Canadian",
     "State": "Massachusetts",
-    "percapita": 54.025897597
+    "per capita": 79.371032857
   },
   {
     "Ancestry": "Canadian",
     "State": "Ohio",
-    "percapita": 41.079913596
+    "per capita": 13.740534785
   },
   {
     "Ancestry": "Canadian",
     "State": "Minnesota",
-    "percapita": 28.509601784
+    "per capita": 15.641798418
   },
   {
     "Ancestry": "Canadian",
     "State": "Florida",
-    "percapita": 67.673248299
+    "per capita": 34.349258446
   },
   {
     "Ancestry": "Canadian",
     "State": "Indiana",
-    "percapita": 25.51232232
+    "per capita": 12.016332025
   },
   {
     "Ancestry": "Canadian",
     "State": "Nebraska",
-    "percapita": 6.139271649
+    "per capita": 9.263870427
   },
   {
     "Ancestry": "Canadian",
     "State": "Maryland",
-    "percapita": 12.111943414
+    "per capita": 13.670421041
   },
   {
     "Ancestry": "Canadian",
     "State": "Wisconsin",
-    "percapita": 116.938541786
+    "per capita": 11.864392649
   },
   {
     "Ancestry": "Canadian",
     "State": "Delaware",
-    "percapita": 22.340501417
+    "per capita": 15.732983901
   },
   {
     "Ancestry": "Canadian",
     "State": "Colorado",
-    "percapita": 38.783021105
+    "per capita": 26.044340915
   },
   {
     "Ancestry": "Canadian",
     "State": "Arizona",
-    "percapita": 80.121522306
+    "per capita": 35.307222003
   },
   {
     "Ancestry": "Canadian",
     "State": "Washington",
-    "percapita": 174.390891119
+    "per capita": 45.695479592
   },
   {
     "Ancestry": "Canadian",
     "State": "Utah",
-    "percapita": 174.300388469
+    "per capita": 37.109628523
   },
   {
     "Ancestry": "Canadian",
     "State": "Nevada",
-    "percapita": 61.79469149
+    "per capita": 28.878880236
   },
   {
     "Ancestry": "Canadian",
     "State": "Connecticut",
-    "percapita": 187.481162103
+    "per capita": 48.770017436
   },
   {
     "Ancestry": "Canadian",
     "State": "Texas",
-    "percapita": 117.441899187
+    "per capita": 12.8211796
   },
   {
     "Ancestry": "Canadian",
     "State": "North Carolina",
-    "percapita": 210.417562564
+    "per capita": 15.647683358
   },
   {
     "Ancestry": "Canadian",
     "State": "New York",
-    "percapita": 47.159261639
+    "per capita": 23.748840728
   },
   {
     "Ancestry": "Canadian",
     "State": "Pennsylvania",
-    "percapita": 136.660054797
+    "per capita": 11.276893965
   },
   {
     "Ancestry": "Canadian",
     "State": "Georgia",
-    "percapita": 90.126454587
+    "per capita": 12.670659994
   },
   {
     "Ancestry": "Canadian",
     "State": "Missouri",
-    "percapita": 67.439836104
+    "per capita": 11.384346795
   },
   {
     "Ancestry": "Canadian",
     "State": "New Jersey",
-    "percapita": 56.838124025
+    "per capita": 13.262215161
   },
   {
     "Ancestry": "Canadian",
     "State": "Virginia",
-    "percapita": 20.581941874
+    "per capita": 17.45555553
   },
   {
     "Ancestry": "Canadian",
     "State": "California",
-    "percapita": 163.282651209
+    "per capita": 22.537723085
   }
 ]

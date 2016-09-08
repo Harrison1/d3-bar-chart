@@ -1,252 +1,257 @@
 [
   {
     "Ancestry": "Australian",
+    "State": "Wyoming",
+    "per capita": 2.978671684
+  },
+  {
+    "Ancestry": "Australian",
     "State": "New Hampshire",
-    "percapita": 0.542616362
+    "per capita": 3.655375701
   },
   {
     "Ancestry": "Australian",
     "State": "North Dakota",
-    "percapita": 0.05520019
+    "per capita": 0.865470694
   },
   {
     "Ancestry": "Australian",
     "State": "Montana",
-    "percapita": 1.047035269
+    "per capita": 1.924619399
   },
   {
     "Ancestry": "Australian",
     "State": "Arkansas",
-    "percapita": 0.078345467
+    "per capita": 1.024821929
   },
   {
     "Ancestry": "Australian",
     "State": "Vermont",
-    "percapita": 0.138116753
+    "per capita": 1.835412936
   },
   {
     "Ancestry": "Australian",
     "State": "Hawaii",
-    "percapita": 3.97683889
+    "per capita": 4.578880372
   },
   {
     "Ancestry": "Australian",
     "State": "District of Columbia",
-    "percapita": 0.256870442
+    "per capita": 7.755432217
   },
   {
     "Ancestry": "Australian",
     "State": "West Virginia",
-    "percapita": 0.548843226
+    "per capita": 1.707807165
   },
   {
     "Ancestry": "Australian",
     "State": "Oklahoma",
-    "percapita": 2.186266368
+    "per capita": 2.238237713
   },
   {
     "Ancestry": "Australian",
     "State": "Mississippi",
-    "percapita": 0.441982463
+    "per capita": 0.895099962
   },
   {
     "Ancestry": "Australian",
     "State": "South Carolina",
-    "percapita": 7.911624227
+    "per capita": 1.396797753
   },
   {
     "Ancestry": "Australian",
     "State": "Idaho",
-    "percapita": 0.458053908
+    "per capita": 3.60974607
   },
   {
     "Ancestry": "Australian",
     "State": "Tennessee",
-    "percapita": 0.471863331
+    "per capita": 1.942176875
   },
   {
     "Ancestry": "Australian",
     "State": "Rhode Island",
-    "percapita": 0.287636871
+    "per capita": 1.31731953
   },
   {
     "Ancestry": "Australian",
     "State": "New Mexico",
-    "percapita": 0.189909698
+    "per capita": 1.798067868
   },
   {
     "Ancestry": "Australian",
     "State": "Kentucky",
-    "percapita": 1.189330181
+    "per capita": 1.252986038
   },
   {
     "Ancestry": "Australian",
     "State": "South Dakota",
-    "percapita": 0.236664635
+    "per capita": 1.816743341
   },
   {
     "Ancestry": "Australian",
     "State": "Alaska",
-    "percapita": 0.430811393
+    "per capita": 3.936302482
   },
   {
     "Ancestry": "Australian",
     "State": "Iowa",
-    "percapita": 2.840888547
+    "per capita": 2.655186819
   },
   {
     "Ancestry": "Australian",
     "State": "Oregon",
-    "percapita": 1.327107424
+    "per capita": 4.274301875
   },
   {
     "Ancestry": "Australian",
     "State": "Kansas",
-    "percapita": 1.780916864
+    "per capita": 2.706591998
   },
   {
     "Ancestry": "Australian",
     "State": "Michigan",
-    "percapita": 4.844999416
+    "per capita": 2.668045224
   },
   {
     "Ancestry": "Australian",
     "State": "Louisiana",
-    "percapita": 2.924616323
+    "per capita": 0.836617433
   },
   {
     "Ancestry": "Australian",
     "State": "Maine",
-    "percapita": 0.547151491
+    "per capita": 2.458482102
   },
   {
     "Ancestry": "Australian",
     "State": "Illinois",
-    "percapita": 4.600677141
+    "per capita": 2.356260355
   },
   {
     "Ancestry": "Australian",
     "State": "Alabama",
-    "percapita": 10.750177812
+    "per capita": 1.633199481
   },
   {
     "Ancestry": "Australian",
     "State": "Massachusetts",
-    "percapita": 2.723545408
+    "per capita": 4.001240548
   },
   {
     "Ancestry": "Australian",
     "State": "Ohio",
-    "percapita": 6.451694421
+    "per capita": 2.157982426
   },
   {
     "Ancestry": "Australian",
     "State": "Minnesota",
-    "percapita": 4.071368858
+    "per capita": 2.233757295
   },
   {
     "Ancestry": "Australian",
     "State": "Florida",
-    "percapita": 4.522972033
+    "per capita": 2.295748161
   },
   {
     "Ancestry": "Australian",
     "State": "Indiana",
-    "percapita": 4.882325339
+    "per capita": 2.299580633
   },
   {
     "Ancestry": "Australian",
     "State": "Nebraska",
-    "percapita": 1.165862832
+    "per capita": 1.759231848
   },
   {
     "Ancestry": "Australian",
     "State": "Maryland",
-    "percapita": 2.08734594
+    "per capita": 2.355930578
   },
   {
     "Ancestry": "Australian",
     "State": "Wisconsin",
-    "percapita": 22.768007697
+    "per capita": 2.310004717
   },
   {
     "Ancestry": "Australian",
     "State": "Delaware",
-    "percapita": 2.246191719
+    "per capita": 1.581848925
   },
   {
     "Ancestry": "Australian",
     "State": "Colorado",
-    "percapita": 7.537513099
+    "per capita": 5.061739782
   },
   {
     "Ancestry": "Australian",
     "State": "Arizona",
-    "percapita": 9.078438994
+    "per capita": 4.00060373
   },
   {
     "Ancestry": "Australian",
     "State": "Washington",
-    "percapita": 22.590613762
+    "per capita": 5.919397071
   },
   {
     "Ancestry": "Australian",
     "State": "Utah",
-    "percapita": 40.794047516
+    "per capita": 8.685304506
   },
   {
     "Ancestry": "Australian",
     "State": "Nevada",
-    "percapita": 9.390923966
+    "per capita": 4.388716279
   },
   {
     "Ancestry": "Australian",
     "State": "Connecticut",
-    "percapita": 12.334146347
+    "per capita": 3.208517195
   },
   {
     "Ancestry": "Australian",
     "State": "Texas",
-    "percapita": 21.529768915
+    "per capita": 2.350413574
   },
   {
     "Ancestry": "Australian",
     "State": "North Carolina",
-    "percapita": 30.440227078
+    "per capita": 2.263684784
   },
   {
     "Ancestry": "Australian",
     "State": "New York",
-    "percapita": 8.236152102
+    "per capita": 4.147627797
   },
   {
     "Ancestry": "Australian",
     "State": "Pennsylvania",
-    "percapita": 29.018938127
+    "per capita": 2.394580397
   },
   {
     "Ancestry": "Australian",
     "State": "Georgia",
-    "percapita": 14.180440291
+    "per capita": 1.99359376
   },
   {
     "Ancestry": "Australian",
     "State": "Missouri",
-    "percapita": 11.332784279
+    "per capita": 1.913058421
   },
   {
     "Ancestry": "Australian",
     "State": "New Jersey",
-    "percapita": 12.816627764
+    "per capita": 2.990543372
   },
   {
     "Ancestry": "Australian",
     "State": "Virginia",
-    "percapita": 3.579960717
+    "per capita": 3.036166532
   },
   {
     "Ancestry": "Australian",
     "State": "California",
-    "percapita": 35.196922402
+    "per capita": 4.858192127
   }
 ]

@@ -1,252 +1,257 @@
 [
   {
     "Ancestry": "Greek",
+    "State": "Wyoming",
+    "per capita": 30.385874933
+  },
+  {
+    "Ancestry": "Greek",
     "State": "New Hampshire",
-    "percapita": 21.360065114
+    "per capita": 143.893676049
   },
   {
     "Ancestry": "Greek",
     "State": "North Dakota",
-    "percapita": 0.551139397
+    "per capita": 8.641183964
   },
   {
     "Ancestry": "Greek",
     "State": "Montana",
-    "percapita": 18.841319945
+    "per capita": 34.633379544
   },
   {
     "Ancestry": "Greek",
     "State": "Arkansas",
-    "percapita": 0.803041041
+    "per capita": 10.50442477
   },
   {
     "Ancestry": "Greek",
     "State": "Vermont",
-    "percapita": 3.241540139
+    "per capita": 43.076343602
   },
   {
     "Ancestry": "Greek",
     "State": "Hawaii",
-    "percapita": 14.806077099
+    "per capita": 17.047523847
   },
   {
     "Ancestry": "Greek",
     "State": "District of Columbia",
-    "percapita": 1.121985963
+    "per capita": 33.874999431
   },
   {
     "Ancestry": "Greek",
     "State": "West Virginia",
-    "percapita": 9.033334236
+    "per capita": 28.108560329
   },
   {
     "Ancestry": "Greek",
     "State": "Oklahoma",
-    "percapita": 12.981586247
+    "per capita": 13.290181073
   },
   {
     "Ancestry": "Greek",
     "State": "Mississippi",
-    "percapita": 5.049814557
+    "per capita": 10.226851062
   },
   {
     "Ancestry": "Greek",
     "State": "South Carolina",
-    "percapita": 161.959738623
+    "per capita": 28.594002006
   },
   {
     "Ancestry": "Greek",
     "State": "Idaho",
-    "percapita": 3.082159344
+    "per capita": 24.289308299
   },
   {
     "Ancestry": "Greek",
     "State": "Tennessee",
-    "percapita": 4.099869132
+    "per capita": 16.874951904
   },
   {
     "Ancestry": "Greek",
     "State": "Rhode Island",
-    "percapita": 15.217852855
+    "per capita": 69.694732523
   },
   {
     "Ancestry": "Greek",
     "State": "New Mexico",
-    "percapita": 2.212574585
+    "per capita": 20.948689376
   },
   {
     "Ancestry": "Greek",
     "State": "Kentucky",
-    "percapita": 13.83107124
+    "per capita": 14.57134396
   },
   {
     "Ancestry": "Greek",
     "State": "South Dakota",
-    "percapita": 1.655125576
+    "per capita": 12.705482463
   },
   {
     "Ancestry": "Greek",
     "State": "Alaska",
-    "percapita": 2.89683523
+    "per capita": 26.468240826
   },
   {
     "Ancestry": "Greek",
     "State": "Iowa",
-    "percapita": 23.047353996
+    "per capita": 21.54080652
   },
   {
     "Ancestry": "Greek",
     "State": "Oregon",
-    "percapita": 10.616077363
+    "per capita": 34.191896256
   },
   {
     "Ancestry": "Greek",
     "State": "Kansas",
-    "percapita": 11.754957622
+    "per capita": 17.864884586
   },
   {
     "Ancestry": "Greek",
     "State": "Michigan",
-    "percapita": 80.246677171
+    "per capita": 44.190255843
   },
   {
     "Ancestry": "Greek",
     "State": "Louisiana",
-    "percapita": 46.44050135
+    "per capita": 13.284796618
   },
   {
     "Ancestry": "Greek",
     "State": "Maine",
-    "percapita": 11.943631014
+    "per capita": 53.665581777
   },
   {
     "Ancestry": "Greek",
     "State": "Illinois",
-    "percapita": 147.968994316
+    "per capita": 75.783078091
   },
   {
     "Ancestry": "Greek",
     "State": "Alabama",
-    "percapita": 103.74193058
+    "per capita": 15.760787417
   },
   {
     "Ancestry": "Greek",
     "State": "Massachusetts",
-    "percapita": 83.459158978
+    "per capita": 122.612301584
   },
   {
     "Ancestry": "Greek",
     "State": "Ohio",
-    "percapita": 137.785707305
+    "per capita": 46.086983597
   },
   {
     "Ancestry": "Greek",
     "State": "Minnesota",
-    "percapita": 40.229399425
+    "per capita": 22.071867614
   },
   {
     "Ancestry": "Greek",
     "State": "Florida",
-    "percapita": 88.624304433
+    "per capita": 44.983493686
   },
   {
     "Ancestry": "Greek",
     "State": "Indiana",
-    "percapita": 75.439489741
+    "per capita": 35.532083091
   },
   {
     "Ancestry": "Greek",
     "State": "Nebraska",
-    "percapita": 13.282382897
+    "per capita": 20.042487309
   },
   {
     "Ancestry": "Greek",
     "State": "Maryland",
-    "percapita": 51.260057212
+    "per capita": 57.855832108
   },
   {
     "Ancestry": "Greek",
     "State": "Wisconsin",
-    "percapita": 275.56136834
+    "per capita": 27.958004462
   },
   {
     "Ancestry": "Greek",
     "State": "Delaware",
-    "percapita": 66.535841176
+    "per capita": 46.856930315
   },
   {
     "Ancestry": "Greek",
     "State": "Colorado",
-    "percapita": 54.244515146
+    "per capita": 36.427349004
   },
   {
     "Ancestry": "Greek",
     "State": "Arizona",
-    "percapita": 74.458032699
+    "per capita": 32.811487036
   },
   {
     "Ancestry": "Greek",
     "State": "Washington",
-    "percapita": 129.371797186
+    "per capita": 33.89916916
   },
   {
     "Ancestry": "Greek",
     "State": "Utah",
-    "percapita": 221.047557943
+    "per capita": 47.062389437
   },
   {
     "Ancestry": "Greek",
     "State": "Nevada",
-    "percapita": 88.686197678
+    "per capita": 41.44624756
   },
   {
     "Ancestry": "Greek",
     "State": "Connecticut",
-    "percapita": 333.374660918
+    "per capita": 86.721715628
   },
   {
     "Ancestry": "Greek",
     "State": "Texas",
-    "percapita": 159.910183893
+    "per capita": 17.457459406
   },
   {
     "Ancestry": "Greek",
     "State": "North Carolina",
-    "percapita": 374.113230613
+    "per capita": 27.820897179
   },
   {
     "Ancestry": "Greek",
     "State": "New York",
-    "percapita": 151.710122844
+    "per capita": 76.399405314
   },
   {
     "Ancestry": "Greek",
     "State": "Pennsylvania",
-    "percapita": 604.725481035
+    "per capita": 49.90064681
   },
   {
     "Ancestry": "Greek",
     "State": "Georgia",
-    "percapita": 139.733340096
+    "per capita": 19.644771897
   },
   {
     "Ancestry": "Greek",
     "State": "Missouri",
-    "percapita": 159.401472676
+    "per capita": 26.908156209
   },
   {
     "Ancestry": "Greek",
     "State": "New Jersey",
-    "percapita": 308.016218093
+    "per capita": 71.870376223
   },
   {
     "Ancestry": "Greek",
     "State": "Virginia",
-    "percapita": 47.821081267
+    "per capita": 40.557083714
   },
   {
     "Ancestry": "Greek",
     "State": "California",
-    "percapita": 248.783296669
+    "per capita": 34.339282263
   }
 ]

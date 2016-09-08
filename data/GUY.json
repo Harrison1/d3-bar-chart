@@ -1,252 +1,257 @@
 [
   {
     "Ancestry": "Guyanese",
+    "State": "Wyoming",
+    "per capita": 0.102712817
+  },
+  {
+    "Ancestry": "Guyanese",
     "State": "New Hampshire",
-    "percapita": 0.098454103
+    "per capita": 0.663243426
   },
   {
     "Ancestry": "Guyanese",
     "State": "North Dakota",
-    "percapita": 0.012075042
+    "per capita": 0.189321714
   },
   {
     "Ancestry": "Guyanese",
     "State": "Montana",
-    "percapita": 0.031889399
+    "per capita": 0.05861785
   },
   {
     "Ancestry": "Guyanese",
     "State": "Arkansas",
-    "percapita": 0.013658914
+    "per capita": 0.178669613
   },
   {
     "Ancestry": "Guyanese",
     "State": "Vermont",
-    "percapita": 0.138116753
+    "per capita": 1.835412936
   },
   {
     "Ancestry": "Guyanese",
     "State": "Hawaii",
-    "percapita": 0.318147111
+    "per capita": 0.36631043
   },
   {
     "Ancestry": "Guyanese",
     "State": "District of Columbia",
-    "percapita": 0.499665792
+    "per capita": 15.085909245
   },
   {
     "Ancestry": "Guyanese",
     "State": "West Virginia",
-    "percapita": 0.33173752
+    "per capita": 1.032250533
   },
   {
     "Ancestry": "Guyanese",
     "State": "Oklahoma",
-    "percapita": 0.151124403
+    "per capita": 0.154716893
   },
   {
     "Ancestry": "Guyanese",
     "State": "Mississippi",
-    "percapita": 0.105548051
+    "per capita": 0.213755215
   },
   {
     "Ancestry": "Guyanese",
     "State": "South Carolina",
-    "percapita": 4.758695461
+    "per capita": 0.840147982
   },
   {
     "Ancestry": "Guyanese",
     "State": "Idaho",
-    "percapita": 0
+    "per capita": 0
   },
   {
     "Ancestry": "Guyanese",
     "State": "Tennessee",
-    "percapita": 0.218125502
+    "per capita": 0.897798744
   },
   {
     "Ancestry": "Guyanese",
     "State": "Rhode Island",
-    "percapita": 0.277290221
+    "per capita": 1.269933935
   },
   {
     "Ancestry": "Guyanese",
     "State": "New Mexico",
-    "percapita": 0.026334145
+    "per capita": 0.249332078
   },
   {
     "Ancestry": "Guyanese",
     "State": "Kentucky",
-    "percapita": 0.501110185
+    "per capita": 0.527930826
   },
   {
     "Ancestry": "Guyanese",
     "State": "South Dakota",
-    "percapita": 0.016795555
+    "per capita": 0.128930173
   },
   {
     "Ancestry": "Guyanese",
     "State": "Alaska",
-    "percapita": 0.017826678
+    "per capita": 0.162881482
   },
   {
     "Ancestry": "Guyanese",
     "State": "Iowa",
-    "percapita": 0.296141109
+    "per capita": 0.276783111
   },
   {
     "Ancestry": "Guyanese",
     "State": "Oregon",
-    "percapita": 0.109484407
+    "per capita": 0.352623608
   },
   {
     "Ancestry": "Guyanese",
     "State": "Kansas",
-    "percapita": 0.799826531
+    "per capita": 1.215555948
   },
   {
     "Ancestry": "Guyanese",
     "State": "Michigan",
-    "percapita": 1.363343255
+    "per capita": 0.75076613
   },
   {
     "Ancestry": "Guyanese",
     "State": "Louisiana",
-    "percapita": 3.067463907
+    "per capita": 0.877480495
   },
   {
     "Ancestry": "Guyanese",
     "State": "Maine",
-    "percapita": 0.028445185
+    "per capita": 0.127810996
   },
   {
     "Ancestry": "Guyanese",
     "State": "Illinois",
-    "percapita": 1.299103891
+    "per capita": 0.66534271
   },
   {
     "Ancestry": "Guyanese",
     "State": "Alabama",
-    "percapita": 2.904719762
+    "per capita": 0.441293799
   },
   {
     "Ancestry": "Guyanese",
     "State": "Massachusetts",
-    "percapita": 1.734633033
+    "per capita": 2.548400334
   },
   {
     "Ancestry": "Guyanese",
     "State": "Ohio",
-    "percapita": 2.235659098
+    "per capita": 0.747790073
   },
   {
     "Ancestry": "Guyanese",
     "State": "Minnesota",
-    "percapita": 6.569632932
+    "per capita": 3.604430352
   },
   {
     "Ancestry": "Guyanese",
     "State": "Florida",
-    "percapita": 23.202143376
+    "per capita": 11.776831161
   },
   {
     "Ancestry": "Guyanese",
     "State": "Indiana",
-    "percapita": 0.254254253
+    "per capita": 0.119754034
   },
   {
     "Ancestry": "Guyanese",
     "State": "Nebraska",
-    "percapita": 0.169067722
+    "per capita": 0.255115192
   },
   {
     "Ancestry": "Guyanese",
     "State": "Maryland",
-    "percapita": 10.749535091
+    "per capita": 12.132707829
   },
   {
     "Ancestry": "Guyanese",
     "State": "Wisconsin",
-    "percapita": 1.198316195
+    "per capita": 0.121579196
   },
   {
     "Ancestry": "Guyanese",
     "State": "Delaware",
-    "percapita": 5.964549631
+    "per capita": 4.200450186
   },
   {
     "Ancestry": "Guyanese",
     "State": "Colorado",
-    "percapita": 0.286375452
+    "per capita": 0.192312504
   },
   {
     "Ancestry": "Guyanese",
     "State": "Arizona",
-    "percapita": 1.30125416
+    "per capita": 0.57342482
   },
   {
     "Ancestry": "Guyanese",
     "State": "Washington",
-    "percapita": 1.529460214
+    "per capita": 0.400763007
   },
   {
     "Ancestry": "Guyanese",
     "State": "Utah",
-    "percapita": 0.686284837
+    "per capita": 0.146114278
   },
   {
     "Ancestry": "Guyanese",
     "State": "Nevada",
-    "percapita": 1.047623139
+    "per capita": 0.489591944
   },
   {
     "Ancestry": "Guyanese",
     "State": "Connecticut",
-    "percapita": 36.970374535
+    "per capita": 9.617210553
   },
   {
     "Ancestry": "Guyanese",
     "State": "Texas",
-    "percapita": 9.04549319
+    "per capita": 0.987500147
   },
   {
     "Ancestry": "Guyanese",
     "State": "North Carolina",
-    "percapita": 21.488014583
+    "per capita": 1.597954297
   },
   {
     "Ancestry": "Guyanese",
     "State": "New York",
-    "percapita": 137.831351763
+    "per capita": 69.410222014
   },
   {
     "Ancestry": "Guyanese",
     "State": "Pennsylvania",
-    "percapita": 34.714686596
+    "per capita": 2.864581317
   },
   {
     "Ancestry": "Guyanese",
     "State": "Georgia",
-    "percapita": 47.796466654
+    "per capita": 6.7195895
   },
   {
     "Ancestry": "Guyanese",
     "State": "Missouri",
-    "percapita": 2.432640763
+    "per capita": 0.410647885
   },
   {
     "Ancestry": "Guyanese",
     "State": "New Jersey",
-    "percapita": 96.400411973
+    "per capita": 22.493406092
   },
   {
     "Ancestry": "Guyanese",
     "State": "Virginia",
-    "percapita": 3.007846741
+    "per capita": 2.550956374
   },
   {
     "Ancestry": "Guyanese",
     "State": "California",
-    "percapita": 4.596828972
+    "per capita": 0.6344952
   }
 ]

@@ -1,252 +1,257 @@
 [
   {
     "Ancestry": "Cajun",
+    "State": "Wyoming",
+    "per capita": 1.027128167
+  },
+  {
+    "Ancestry": "Cajun",
     "State": "New Hampshire",
-    "percapita": 0.128661612
+    "per capita": 0.866738568
   },
   {
     "Ancestry": "Cajun",
     "State": "North Dakota",
-    "percapita": 0.047437663
+    "per capita": 0.743763878
   },
   {
     "Ancestry": "Cajun",
     "State": "Montana",
-    "percapita": 0.850383975
+    "per capita": 1.563142659
   },
   {
     "Ancestry": "Cajun",
     "State": "Arkansas",
-    "percapita": 0.525997036
+    "per capita": 6.880465647
   },
   {
     "Ancestry": "Cajun",
     "State": "Vermont",
-    "percapita": 0.060050762
+    "per capita": 0.798005624
   },
   {
     "Ancestry": "Cajun",
     "State": "Hawaii",
-    "percapita": 0.868786342
+    "per capita": 1.000309251
   },
   {
     "Ancestry": "Cajun",
     "State": "District of Columbia",
-    "percapita": 0.032674322
+    "per capita": 0.98650312
   },
   {
     "Ancestry": "Cajun",
     "State": "West Virginia",
-    "percapita": 0.236211009
+    "per capita": 0.735005615
   },
   {
     "Ancestry": "Cajun",
     "State": "Oklahoma",
-    "percapita": 2.576671077
+    "per capita": 2.637923019
   },
   {
     "Ancestry": "Cajun",
     "State": "Mississippi",
-    "percapita": 3.81952009
+    "per capita": 7.735266838
   },
   {
     "Ancestry": "Cajun",
     "State": "South Carolina",
-    "percapita": 5.215811528
+    "per capita": 0.920851852
   },
   {
     "Ancestry": "Cajun",
     "State": "Idaho",
-    "percapita": 0.20961789
+    "per capita": 1.651917693
   },
   {
     "Ancestry": "Cajun",
     "State": "Tennessee",
-    "percapita": 0.48447603
+    "per capita": 1.994090408
   },
   {
     "Ancestry": "Cajun",
     "State": "Rhode Island",
-    "percapita": 0.16140774
+    "per capita": 0.739215276
   },
   {
     "Ancestry": "Cajun",
     "State": "New Mexico",
-    "percapita": 0.224346656
+    "per capita": 2.124117508
   },
   {
     "Ancestry": "Cajun",
     "State": "Kentucky",
-    "percapita": 1.047384807
+    "per capita": 1.1034434
   },
   {
     "Ancestry": "Cajun",
     "State": "South Dakota",
-    "percapita": 0.041225453
+    "per capita": 0.316464969
   },
   {
     "Ancestry": "Cajun",
     "State": "Alaska",
-    "percapita": 0.181237896
+    "per capita": 1.655961734
   },
   {
     "Ancestry": "Cajun",
     "State": "Iowa",
-    "percapita": 0.499307684
+    "per capita": 0.466669198
   },
   {
     "Ancestry": "Cajun",
     "State": "Oregon",
-    "percapita": 0.452796228
+    "per capita": 1.458350492
   },
   {
     "Ancestry": "Cajun",
     "State": "Kansas",
-    "percapita": 0.883661039
+    "per capita": 1.342965495
   },
   {
     "Ancestry": "Cajun",
     "State": "Michigan",
-    "percapita": 0.806278269
+    "per capita": 0.444001474
   },
   {
     "Ancestry": "Cajun",
     "State": "Louisiana",
-    "percapita": 424.648275416
+    "per capita": 121.47513074
   },
   {
     "Ancestry": "Cajun",
     "State": "Maine",
-    "percapita": 1.420585981
+    "per capita": 6.383031511
   },
   {
     "Ancestry": "Cajun",
     "State": "Illinois",
-    "percapita": 0.563905073
+    "per capita": 0.28880687
   },
   {
     "Ancestry": "Cajun",
     "State": "Alabama",
-    "percapita": 19.532204384
+    "per capita": 2.967391481
   },
   {
     "Ancestry": "Cajun",
     "State": "Massachusetts",
-    "percapita": 0.612520216
+    "per capita": 0.899871438
   },
   {
     "Ancestry": "Cajun",
     "State": "Ohio",
-    "percapita": 1.725093352
+    "per capita": 0.577014486
   },
   {
     "Ancestry": "Cajun",
     "State": "Minnesota",
-    "percapita": 0.584486916
+    "per capita": 0.320678857
   },
   {
     "Ancestry": "Cajun",
     "State": "Florida",
-    "percapita": 3.627687006
+    "per capita": 1.841323738
   },
   {
     "Ancestry": "Cajun",
     "State": "Indiana",
-    "percapita": 1.229431957
+    "per capita": 0.579063811
   },
   {
     "Ancestry": "Cajun",
     "State": "Nebraska",
-    "percapita": 0.648092934
+    "per capita": 0.977941571
   },
   {
     "Ancestry": "Cajun",
     "State": "Maryland",
-    "percapita": 0.861326698
+    "per capita": 0.972156013
   },
   {
     "Ancestry": "Cajun",
     "State": "Wisconsin",
-    "percapita": 4.074275061
+    "per capita": 0.413369265
   },
   {
     "Ancestry": "Cajun",
     "State": "Delaware",
-    "percapita": 2.777385706
+    "per capita": 1.955934819
   },
   {
     "Ancestry": "Cajun",
     "State": "Colorado",
-    "percapita": 3.917504964
+    "per capita": 2.630760366
   },
   {
     "Ancestry": "Cajun",
     "State": "Arizona",
-    "percapita": 3.418320512
+    "per capita": 1.506354319
   },
   {
     "Ancestry": "Cajun",
     "State": "Washington",
-    "percapita": 5.166657119
+    "per capita": 1.353814258
   },
   {
     "Ancestry": "Cajun",
     "State": "Utah",
-    "percapita": 2.298256198
+    "per capita": 0.48931293
   },
   {
     "Ancestry": "Cajun",
     "State": "Nevada",
-    "percapita": 2.253520278
+    "per capita": 1.053151017
   },
   {
     "Ancestry": "Cajun",
     "State": "Connecticut",
-    "percapita": 2.597224924
+    "per capita": 0.675623638
   },
   {
     "Ancestry": "Cajun",
     "State": "Texas",
-    "percapita": 76.587667547
+    "per capita": 8.36110662
   },
   {
     "Ancestry": "Cajun",
     "State": "North Carolina",
-    "percapita": 17.471689642
+    "per capita": 1.299280649
   },
   {
     "Ancestry": "Cajun",
     "State": "New York",
-    "percapita": 0.589302214
+    "per capita": 0.296765554
   },
   {
     "Ancestry": "Cajun",
     "State": "Pennsylvania",
-    "percapita": 4.785945054
+    "per capita": 0.394925898
   },
   {
     "Ancestry": "Cajun",
     "State": "Georgia",
-    "percapita": 16.568502516
+    "per capita": 2.329325645
   },
   {
     "Ancestry": "Cajun",
     "State": "Missouri",
-    "percapita": 11.967810985
+    "per capita": 2.02025566
   },
   {
     "Ancestry": "Cajun",
     "State": "New Jersey",
-    "percapita": 0.819918948
+    "per capita": 0.191314222
   },
   {
     "Ancestry": "Cajun",
     "State": "Virginia",
-    "percapita": 1.51525236
+    "per capita": 1.285086309
   },
   {
     "Ancestry": "Cajun",
     "State": "California",
-    "percapita": 6.245488591
+    "per capita": 0.862057857
   }
 ]

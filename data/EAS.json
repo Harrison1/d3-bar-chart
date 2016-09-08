@@ -1,252 +1,257 @@
 [
   {
     "Ancestry": "Eastern European",
+    "State": "Wyoming",
+    "per capita": 3.783255414
+  },
+  {
+    "Ancestry": "Eastern European",
     "State": "New Hampshire",
-    "percapita": 2.09326848
+    "per capita": 14.101459663
   },
   {
     "Ancestry": "Eastern European",
     "State": "North Dakota",
-    "percapita": 0.04657516
+    "per capita": 0.730240898
   },
   {
     "Ancestry": "Eastern European",
     "State": "Montana",
-    "percapita": 3.008233311
+    "per capita": 5.529617157
   },
   {
     "Ancestry": "Eastern European",
     "State": "Arkansas",
-    "percapita": 0.12035307
+    "per capita": 1.574315266
   },
   {
     "Ancestry": "Eastern European",
     "State": "Vermont",
-    "percapita": 2.372005103
+    "per capita": 31.521222162
   },
   {
     "Ancestry": "Eastern European",
     "State": "Hawaii",
-    "percapita": 4.747733814
+    "per capita": 5.466478721
   },
   {
     "Ancestry": "Eastern European",
     "State": "District of Columbia",
-    "percapita": 2.668235436
+    "per capita": 80.559362446
   },
   {
     "Ancestry": "Eastern European",
     "State": "West Virginia",
-    "percapita": 1.205370883
+    "per capita": 3.750690419
   },
   {
     "Ancestry": "Eastern European",
     "State": "Oklahoma",
-    "percapita": 2.120779127
+    "per capita": 2.171193726
   },
   {
     "Ancestry": "Eastern European",
     "State": "Mississippi",
-    "percapita": 0.68606233
+    "per capita": 1.389408897
   },
   {
     "Ancestry": "Eastern European",
     "State": "South Carolina",
-    "percapita": 25.856360067
+    "per capita": 4.56494199
   },
   {
     "Ancestry": "Eastern European",
     "State": "Idaho",
-    "percapita": 0.55898104
+    "per capita": 4.405113848
   },
   {
     "Ancestry": "Eastern European",
     "State": "Tennessee",
-    "percapita": 1.302446663
+    "per capita": 5.360835698
   },
   {
     "Ancestry": "Eastern European",
     "State": "Rhode Island",
-    "percapita": 3.983460259
+    "per capita": 18.243453917
   },
   {
     "Ancestry": "Eastern European",
     "State": "New Mexico",
-    "percapita": 1.147054574
+    "per capita": 10.860329924
   },
   {
     "Ancestry": "Eastern European",
     "State": "Kentucky",
-    "percapita": 3.690579731
+    "per capita": 3.888108573
   },
   {
     "Ancestry": "Eastern European",
     "State": "South Dakota",
-    "percapita": 0.10993454
+    "per capita": 0.843906584
   },
   {
     "Ancestry": "Eastern European",
     "State": "Alaska",
-    "percapita": 1.35631311
+    "per capita": 12.392566089
   },
   {
     "Ancestry": "Eastern European",
     "State": "Iowa",
-    "percapita": 4.387020617
+    "per capita": 4.10025213
   },
   {
     "Ancestry": "Eastern European",
     "State": "Oregon",
-    "percapita": 5.385850814
+    "per capita": 17.346562764
   },
   {
     "Ancestry": "Eastern European",
     "State": "Kansas",
-    "percapita": 3.804274065
+    "per capita": 5.781638631
   },
   {
     "Ancestry": "Eastern European",
     "State": "Michigan",
-    "percapita": 18.155920657
+    "per capita": 9.99810593
   },
   {
     "Ancestry": "Eastern European",
     "State": "Louisiana",
-    "percapita": 9.43545883
+    "per capita": 2.699112798
   },
   {
     "Ancestry": "Eastern European",
     "State": "Maine",
-    "percapita": 3.236058053
+    "per capita": 14.540380381
   },
   {
     "Ancestry": "Eastern European",
     "State": "Illinois",
-    "percapita": 32.885367346
+    "per capita": 16.84240927
   },
   {
     "Ancestry": "Eastern European",
     "State": "Alabama",
-    "percapita": 13.790632143
+    "per capita": 2.095114486
   },
   {
     "Ancestry": "Eastern European",
     "State": "Massachusetts",
-    "percapita": 28.69864076
+    "per capita": 42.162015997
   },
   {
     "Ancestry": "Eastern European",
     "State": "Ohio",
-    "percapita": 36.226960398
+    "per capita": 12.117304199
   },
   {
     "Ancestry": "Eastern European",
     "State": "Minnesota",
-    "percapita": 19.835815955
+    "per capita": 10.882924181
   },
   {
     "Ancestry": "Eastern European",
     "State": "Florida",
-    "percapita": 29.026447849
+    "per capita": 14.733103316
   },
   {
     "Ancestry": "Eastern European",
     "State": "Indiana",
-    "percapita": 10.994082635
+    "per capita": 5.178225078
   },
   {
     "Ancestry": "Eastern European",
     "State": "Nebraska",
-    "percapita": 2.874151271
+    "per capita": 4.336958272
   },
   {
     "Ancestry": "Eastern European",
     "State": "Maryland",
-    "percapita": 30.683095819
+    "per capita": 34.631175554
   },
   {
     "Ancestry": "Eastern European",
     "State": "Wisconsin",
-    "percapita": 64.024322395
+    "per capita": 6.495802739
   },
   {
     "Ancestry": "Eastern European",
     "State": "Delaware",
-    "percapita": 16.117943278
+    "per capita": 11.350834853
   },
   {
     "Ancestry": "Eastern European",
     "State": "Colorado",
-    "percapita": 25.170455951
+    "per capita": 16.902962098
   },
   {
     "Ancestry": "Eastern European",
     "State": "Arizona",
-    "percapita": 27.778068069
+    "per capita": 12.240985792
   },
   {
     "Ancestry": "Eastern European",
     "State": "Washington",
-    "percapita": 46.159433527
+    "per capita": 12.095112532
   },
   {
     "Ancestry": "Eastern European",
     "State": "Utah",
-    "percapita": 22.296277144
+    "per capita": 4.747015021
   },
   {
     "Ancestry": "Eastern European",
     "State": "Nevada",
-    "percapita": 21.894569921
+    "per capita": 10.232119415
   },
   {
     "Ancestry": "Eastern European",
     "State": "Connecticut",
-    "percapita": 131.12245007
+    "per capita": 34.109262522
   },
   {
     "Ancestry": "Eastern European",
     "State": "Texas",
-    "percapita": 43.113905934
+    "per capita": 4.706762536
   },
   {
     "Ancestry": "Eastern European",
     "State": "North Carolina",
-    "percapita": 101.503484872
+    "per capita": 7.548297641
   },
   {
     "Ancestry": "Eastern European",
     "State": "New York",
-    "percapita": 97.453088125
+    "per capita": 49.076210863
   },
   {
     "Ancestry": "Eastern European",
     "State": "Pennsylvania",
-    "percapita": 252.67894459
+    "per capita": 20.850523363
   },
   {
     "Ancestry": "Eastern European",
     "State": "Georgia",
-    "percapita": 67.048897511
+    "per capita": 9.426242131
   },
   {
     "Ancestry": "Eastern European",
     "State": "Missouri",
-    "percapita": 40.856641256
+    "per capita": 6.896905447
   },
   {
     "Ancestry": "Eastern European",
     "State": "New Jersey",
-    "percapita": 185.387989482
+    "per capita": 43.257152607
   },
   {
     "Ancestry": "Eastern European",
     "State": "Virginia",
-    "percapita": 17.322025114
+    "per capita": 14.690818443
   },
   {
     "Ancestry": "Eastern European",
     "State": "California",
-    "percapita": 127.107362283
+    "per capita": 17.544488113
   }
 ]

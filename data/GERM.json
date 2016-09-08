@@ -1,252 +1,257 @@
 [
   {
     "Ancestry": "German Russian",
+    "State": "Wyoming",
+    "per capita": 1.369504222
+  },
+  {
+    "Ancestry": "German Russian",
     "State": "New Hampshire",
-    "percapita": 0.023494729
+    "per capita": 0.158273999
   },
   {
     "Ancestry": "German Russian",
     "State": "North Dakota",
-    "percapita": 1.523180242
+    "per capita": 23.881581972
   },
   {
     "Ancestry": "German Russian",
     "State": "Montana",
-    "percapita": 0.696251879
+    "per capita": 1.279823052
   },
   {
     "Ancestry": "German Russian",
     "State": "Arkansas",
-    "percapita": 0.006958315
+    "per capita": 0.091020369
   },
   {
     "Ancestry": "German Russian",
     "State": "Vermont",
-    "percapita": 0.037231473
+    "per capita": 0.494763487
   },
   {
     "Ancestry": "German Russian",
     "State": "Hawaii",
-    "percapita": 1.535671633
+    "per capita": 1.768152267
   },
   {
     "Ancestry": "German Russian",
     "State": "District of Columbia",
-    "percapita": 0.007037546
+    "per capita": 0.212477595
   },
   {
     "Ancestry": "German Russian",
     "State": "West Virginia",
-    "percapita": 0.137210807
+    "per capita": 0.426951791
   },
   {
     "Ancestry": "German Russian",
     "State": "Oklahoma",
-    "percapita": 2.027585745
+    "per capita": 2.075784975
   },
   {
     "Ancestry": "German Russian",
     "State": "Mississippi",
-    "percapita": 0.115443181
+    "per capita": 0.233794766
   },
   {
     "Ancestry": "German Russian",
     "State": "South Carolina",
-    "percapita": 2.719254549
+    "per capita": 0.480084561
   },
   {
     "Ancestry": "German Russian",
     "State": "Idaho",
-    "percapita": 0.07297808
+    "per capita": 0.575112086
   },
   {
     "Ancestry": "German Russian",
     "State": "Tennessee",
-    "percapita": 0.137997767
+    "per capita": 0.567995124
   },
   {
     "Ancestry": "German Russian",
     "State": "Rhode Island",
-    "percapita": 0.12002114
+    "per capita": 0.549672897
   },
   {
     "Ancestry": "German Russian",
     "State": "New Mexico",
-    "percapita": 0.079002434
+    "per capita": 0.747996233
   },
   {
     "Ancestry": "German Russian",
     "State": "Kentucky",
-    "percapita": 0.245178374
+    "per capita": 0.258300919
   },
   {
     "Ancestry": "German Russian",
     "State": "South Dakota",
-    "percapita": 0.300793117
+    "per capita": 2.309022182
   },
   {
     "Ancestry": "German Russian",
     "State": "Alaska",
-    "percapita": 0.24808794
+    "per capita": 2.266767291
   },
   {
     "Ancestry": "German Russian",
     "State": "Iowa",
-    "percapita": 0.902197333
+    "per capita": 0.843222966
   },
   {
     "Ancestry": "German Russian",
     "State": "Oregon",
-    "percapita": 0.270582893
+    "per capita": 0.871484059
   },
   {
     "Ancestry": "German Russian",
     "State": "Kansas",
-    "percapita": 3.23782468
+    "per capita": 4.920763314
   },
   {
     "Ancestry": "German Russian",
     "State": "Michigan",
-    "percapita": 1.387165113
+    "per capita": 0.763884355
   },
   {
     "Ancestry": "German Russian",
     "State": "Louisiana",
-    "percapita": 1.99234788
+    "per capita": 0.569932185
   },
   {
     "Ancestry": "German Russian",
     "State": "Maine",
-    "percapita": 0.018405708
+    "per capita": 0.082701233
   },
   {
     "Ancestry": "German Russian",
     "State": "Illinois",
-    "percapita": 0.898913194
+    "per capita": 0.460382995
   },
   {
     "Ancestry": "German Russian",
     "State": "Alabama",
-    "percapita": 1.398066054
+    "per capita": 0.212398417
   },
   {
     "Ancestry": "German Russian",
     "State": "Massachusetts",
-    "percapita": 0
+    "per capita": 0
   },
   {
     "Ancestry": "German Russian",
     "State": "Ohio",
-    "percapita": 1.436288486
+    "per capita": 0.480414153
   },
   {
     "Ancestry": "German Russian",
     "State": "Minnesota",
-    "percapita": 1.873698055
+    "per capita": 1.028004793
   },
   {
     "Ancestry": "German Russian",
     "State": "Florida",
-    "percapita": 0.655618018
+    "per capita": 0.332775407
   },
   {
     "Ancestry": "German Russian",
     "State": "Indiana",
-    "percapita": 0.708049818
+    "per capita": 0.333492247
   },
   {
     "Ancestry": "German Russian",
     "State": "Nebraska",
-    "percapita": 1.768166591
+    "per capita": 2.668079721
   },
   {
     "Ancestry": "German Russian",
     "State": "Maryland",
-    "percapita": 0.793132157
+    "per capita": 0.89518669
   },
   {
     "Ancestry": "German Russian",
     "State": "Wisconsin",
-    "percapita": 17.238634399
+    "per capita": 1.749003572
   },
   {
     "Ancestry": "German Russian",
     "State": "Delaware",
-    "percapita": 4.204020987
+    "per capita": 2.96062265
   },
   {
     "Ancestry": "German Russian",
     "State": "Colorado",
-    "percapita": 2.432801166
+    "per capita": 1.633722726
   },
   {
     "Ancestry": "German Russian",
     "State": "Arizona",
-    "percapita": 1.173151418
+    "per capita": 0.516973672
   },
   {
     "Ancestry": "German Russian",
     "State": "Washington",
-    "percapita": 6.058391873
+    "per capita": 1.587474669
   },
   {
     "Ancestry": "German Russian",
     "State": "Utah",
-    "percapita": 0.989526974
+    "per capita": 0.2106764
   },
   {
     "Ancestry": "German Russian",
     "State": "Nevada",
-    "percapita": 1.921898564
+    "per capita": 0.898172272
   },
   {
     "Ancestry": "German Russian",
     "State": "Connecticut",
-    "percapita": 1.592537093
+    "per capita": 0.414271284
   },
   {
     "Ancestry": "German Russian",
     "State": "Texas",
-    "percapita": 3.74120511
+    "per capita": 0.408428874
   },
   {
     "Ancestry": "German Russian",
     "State": "North Carolina",
-    "percapita": 8.735844821
+    "per capita": 0.649640325
   },
   {
     "Ancestry": "German Russian",
     "State": "New York",
-    "percapita": 0.719029152
+    "per capita": 0.36209449
   },
   {
     "Ancestry": "German Russian",
     "State": "Pennsylvania",
-    "percapita": 6.245421367
+    "per capita": 0.515358746
   },
   {
     "Ancestry": "German Russian",
     "State": "Georgia",
-    "percapita": 3.649015435
+    "per capita": 0.513006243
   },
   {
     "Ancestry": "German Russian",
     "State": "Missouri",
-    "percapita": 4.122788764
+    "per capita": 0.69595746
   },
   {
     "Ancestry": "German Russian",
     "State": "New Jersey",
-    "percapita": 2.037810251
+    "per capita": 0.475488565
   },
   {
     "Ancestry": "German Russian",
     "State": "Virginia",
-    "percapita": 0.913399787
+    "per capita": 0.774654831
   },
   {
     "Ancestry": "German Russian",
     "State": "California",
-    "percapita": 4.238343528
+    "per capita": 0.585013852
   }
 ]

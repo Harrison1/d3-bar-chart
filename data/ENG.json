@@ -1,252 +1,257 @@
 [
   {
     "Ancestry": "English",
+    "State": "Wyoming",
+    "per capita": 1302.398515457
+  },
+  {
+    "Ancestry": "English",
     "State": "New Hampshire",
-    "percapita": 252.417299952
+    "per capita": 1700.428018116
   },
   {
     "Ancestry": "English",
     "State": "North Dakota",
-    "percapita": 27.2283562
+    "per capita": 426.906942968
   },
   {
     "Ancestry": "English",
     "State": "Montana",
-    "percapita": 616.20948784
+    "per capita": 1132.69224945
   },
   {
     "Ancestry": "English",
     "State": "Arkansas",
-    "percapita": 74.763224019
+    "per capita": 977.963294519
   },
   {
     "Ancestry": "English",
     "State": "Vermont",
-    "percapita": 127.977782179
+    "per capita": 1700.677666376
   },
   {
     "Ancestry": "English",
     "State": "Hawaii",
-    "percapita": 333.228507939
+    "per capita": 383.674953031
   },
   {
     "Ancestry": "English",
     "State": "District of Columbia",
-    "percapita": 16.230592646
+    "per capita": 490.034041946
   },
   {
     "Ancestry": "English",
     "State": "West Virginia",
-    "percapita": 366.601222322
+    "per capita": 1140.734119285
   },
   {
     "Ancestry": "English",
     "State": "Oklahoma",
-    "percapita": 777.35118717
+    "per capita": 795.830173456
   },
   {
     "Ancestry": "English",
     "State": "Mississippi",
-    "percapita": 373.175028848
+    "per capita": 755.751601745
   },
   {
     "Ancestry": "English",
     "State": "South Carolina",
-    "percapita": 5081.794473584
+    "per capita": 897.191132838
   },
   {
     "Ancestry": "English",
     "State": "Idaho",
-    "percapita": 198.151014939
+    "per capita": 1561.55167688
   },
   {
     "Ancestry": "English",
     "State": "Tennessee",
-    "percapita": 231.982035955
+    "per capita": 954.831867336
   },
   {
     "Ancestry": "English",
     "State": "Rhode Island",
-    "percapita": 239.96571534
+    "per capita": 1098.995141081
   },
   {
     "Ancestry": "English",
     "State": "New Mexico",
-    "percapita": 68.162895119
+    "per capita": 645.367314099
   },
   {
     "Ancestry": "English",
     "State": "Kentucky",
-    "percapita": 969.874029932
+    "per capita": 1021.784057259
   },
   {
     "Ancestry": "English",
     "State": "South Dakota",
-    "percapita": 75.190644815
+    "per capita": 577.196940839
   },
   {
     "Ancestry": "English",
     "State": "Alaska",
-    "percapita": 90.026211159
+    "per capita": 822.565057579
   },
   {
     "Ancestry": "English",
     "State": "Iowa",
-    "percapita": 931.136517263
+    "per capita": 870.270468594
   },
   {
     "Ancestry": "English",
     "State": "Oregon",
-    "percapita": 357.637855141
+    "per capita": 1151.867683532
   },
   {
     "Ancestry": "English",
     "State": "Kansas",
-    "percapita": 642.394386079
+    "per capita": 976.294592911
   },
   {
     "Ancestry": "English",
     "State": "Michigan",
-    "percapita": 1687.142775206
+    "per capita": 929.07611265
   },
   {
     "Ancestry": "English",
     "State": "Louisiana",
-    "percapita": 2088.025688507
+    "per capita": 597.301833504
   },
   {
     "Ancestry": "English",
     "State": "Maine",
-    "percapita": 470.844773457
+    "per capita": 2115.617827078
   },
   {
     "Ancestry": "English",
     "State": "Illinois",
-    "percapita": 1151.800365477
+    "per capita": 589.900454793
   },
   {
     "Ancestry": "English",
     "State": "Alabama",
-    "percapita": 5376.459825282
+    "per capita": 816.80801472
   },
   {
     "Ancestry": "English",
     "State": "Massachusetts",
-    "percapita": 693.629194389
+    "per capita": 1019.031020807
   },
   {
     "Ancestry": "English",
     "State": "Ohio",
-    "percapita": 2595.528011364
+    "per capita": 868.160125056
   },
   {
     "Ancestry": "English",
     "State": "Minnesota",
-    "percapita": 1014.415451296
+    "per capita": 556.559229477
   },
   {
     "Ancestry": "English",
     "State": "Florida",
-    "percapita": 1430.538707064
+    "per capita": 726.105883806
   },
   {
     "Ancestry": "English",
     "State": "Indiana",
-    "percapita": 1821.126661745
+    "per capita": 857.752671538
   },
   {
     "Ancestry": "English",
     "State": "Nebraska",
-    "percapita": 542.224839641
+    "per capita": 818.191626588
   },
   {
     "Ancestry": "English",
     "State": "Maryland",
-    "percapita": 682.888270065
+    "per capita": 770.757413275
   },
   {
     "Ancestry": "English",
     "State": "Wisconsin",
-    "percapita": 5714.924001075
+    "per capita": 579.826815646
   },
   {
     "Ancestry": "English",
     "State": "Delaware",
-    "percapita": 1491.714132644
+    "per capita": 1050.518696813
   },
   {
     "Ancestry": "English",
     "State": "Colorado",
-    "percapita": 1515.80472753
+    "per capita": 1017.923151924
   },
   {
     "Ancestry": "English",
     "State": "Arizona",
-    "percapita": 1923.546935664
+    "per capita": 847.651127151
   },
   {
     "Ancestry": "English",
     "State": "Washington",
-    "percapita": 4000.711226022
+    "per capita": 1048.302563326
   },
   {
     "Ancestry": "English",
     "State": "Utah",
-    "percapita": 11494.856055746
+    "per capita": 2447.325802898
   },
   {
     "Ancestry": "English",
     "State": "Nevada",
-    "percapita": 1528.127927598
+    "per capita": 714.149101528
   },
   {
     "Ancestry": "English",
     "State": "Connecticut",
-    "percapita": 3433.595478477
+    "per capita": 893.191131703
   },
   {
     "Ancestry": "English",
     "State": "Texas",
-    "percapita": 5685.79245928
+    "per capita": 620.720260795
   },
   {
     "Ancestry": "English",
     "State": "North Carolina",
-    "percapita": 12849.427031354
+    "per capita": 955.546500369
   },
   {
     "Ancestry": "English",
     "State": "New York",
-    "percapita": 1059.736338547
+    "per capita": 533.670558938
   },
   {
     "Ancestry": "English",
     "State": "Pennsylvania",
-    "percapita": 8975.324425473
+    "per capita": 740.624478727
   },
   {
     "Ancestry": "English",
     "State": "Georgia",
-    "percapita": 5745.853823823
+    "per capita": 807.795674565
   },
   {
     "Ancestry": "English",
     "State": "Missouri",
-    "percapita": 5443.439148322
+    "per capita": 918.893084607
   },
   {
     "Ancestry": "English",
     "State": "New Jersey",
-    "percapita": 2119.567197872
+    "per capita": 494.565165708
   },
   {
     "Ancestry": "English",
     "State": "Virginia",
-    "percapita": 1239.309328148
+    "per capita": 1051.058881093
   },
   {
     "Ancestry": "English",
     "State": "California",
-    "percapita": 4221.347210703
+    "per capita": 582.667869338
   }
 ]

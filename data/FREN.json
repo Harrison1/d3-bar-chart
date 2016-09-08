@@ -1,252 +1,257 @@
 [
   {
     "Ancestry": "French Canadian",
+    "State": "Wyoming",
+    "per capita": 44.491768424
+  },
+  {
+    "Ancestry": "French Canadian",
     "State": "New Hampshire",
-    "percapita": 127.036000078
+    "per capita": 855.787514895
   },
   {
     "Ancestry": "French Canadian",
     "State": "North Dakota",
-    "percapita": 5.775319874
+    "per capita": 90.549871396
   },
   {
     "Ancestry": "French Canadian",
     "State": "Montana",
-    "percapita": 42.721164941
+    "per capita": 78.528379343
   },
   {
     "Ancestry": "French Canadian",
     "State": "Arkansas",
-    "percapita": 1.659686876
+    "per capita": 21.710043491
   },
   {
     "Ancestry": "French Canadian",
     "State": "Vermont",
-    "percapita": 61.91113472
+    "per capita": 822.727838586
   },
   {
     "Ancestry": "French Canadian",
     "State": "Hawaii",
-    "percapita": 17.173825792
+    "per capita": 19.773718776
   },
   {
     "Ancestry": "French Canadian",
     "State": "District of Columbia",
-    "percapita": 1.045075635
+    "per capita": 31.552922857
   },
   {
     "Ancestry": "French Canadian",
     "State": "West Virginia",
-    "percapita": 5.064641921
+    "per capita": 15.759385103
   },
   {
     "Ancestry": "French Canadian",
     "State": "Oklahoma",
-    "percapita": 22.220324771
+    "per capita": 22.74854044
   },
   {
     "Ancestry": "French Canadian",
     "State": "Mississippi",
-    "percapita": 11.786748739
+    "per capita": 23.870445636
   },
   {
     "Ancestry": "French Canadian",
     "State": "South Carolina",
-    "percapita": 174.817593108
+    "per capita": 30.864057021
   },
   {
     "Ancestry": "French Canadian",
     "State": "Idaho",
-    "percapita": 6.47796916
+    "per capita": 51.050374924
   },
   {
     "Ancestry": "French Canadian",
     "State": "Tennessee",
-    "percapita": 6.452137515
+    "per capita": 26.556825775
   },
   {
     "Ancestry": "French Canadian",
     "State": "Rhode Island",
-    "percapita": 101.771718963
+    "per capita": 466.094185503
   },
   {
     "Ancestry": "French Canadian",
     "State": "New Mexico",
-    "percapita": 3.204156419
+    "per capita": 30.337001072
   },
   {
     "Ancestry": "French Canadian",
     "State": "Kentucky",
-    "percapita": 15.990361479
+    "per capita": 16.846204687
   },
   {
     "Ancestry": "French Canadian",
     "State": "South Dakota",
-    "percapita": 6.212828384
+    "per capita": 47.692442934
   },
   {
     "Ancestry": "French Canadian",
     "State": "Alaska",
-    "percapita": 9.604122954
+    "per capita": 87.75239843
   },
   {
     "Ancestry": "French Canadian",
     "State": "Iowa",
-    "percapita": 31.477045104
+    "per capita": 29.419469954
   },
   {
     "Ancestry": "French Canadian",
     "State": "Oregon",
-    "percapita": 21.520724343
+    "per capita": 69.313207593
   },
   {
     "Ancestry": "French Canadian",
     "State": "Kansas",
-    "percapita": 20.704857893
+    "per capita": 31.4667146
   },
   {
     "Ancestry": "French Canadian",
     "State": "Michigan",
-    "percapita": 292.690006346
+    "per capita": 161.178589805
   },
   {
     "Ancestry": "French Canadian",
     "State": "Louisiana",
-    "percapita": 1001.812660657
+    "per capita": 286.579107878
   },
   {
     "Ancestry": "French Canadian",
     "State": "Maine",
-    "percapita": 170.341477747
+    "per capita": 765.384872742
   },
   {
     "Ancestry": "French Canadian",
     "State": "Illinois",
-    "percapita": 52.164250995
+    "per capita": 26.716188246
   },
   {
     "Ancestry": "French Canadian",
     "State": "Alabama",
-    "percapita": 113.77271518
+    "per capita": 17.284694508
   },
   {
     "Ancestry": "French Canadian",
     "State": "Massachusetts",
-    "percapita": 258.497658447
+    "per capita": 379.766501893
   },
   {
     "Ancestry": "French Canadian",
     "State": "Ohio",
-    "percapita": 78.498194067
+    "per capita": 26.256315355
   },
   {
     "Ancestry": "French Canadian",
     "State": "Minnesota",
-    "percapita": 175.910522067
+    "per capita": 96.513341248
   },
   {
     "Ancestry": "French Canadian",
     "State": "Florida",
-    "percapita": 108.075956219
+    "per capita": 54.856668555
   },
   {
     "Ancestry": "French Canadian",
     "State": "Indiana",
-    "percapita": 52.402123377
+    "per capita": 24.681458058
   },
   {
     "Ancestry": "French Canadian",
     "State": "Nebraska",
-    "percapita": 18.372025773
+    "per capita": 27.722517583
   },
   {
     "Ancestry": "French Canadian",
     "State": "Maryland",
-    "percapita": 26.751532302
+    "per capita": 30.193726766
   },
   {
     "Ancestry": "French Canadian",
     "State": "Wisconsin",
-    "percapita": 945.728259548
+    "per capita": 95.952038049
   },
   {
     "Ancestry": "French Canadian",
     "State": "Delaware",
-    "percapita": 56.807402719
+    "per capita": 40.005814364
   },
   {
     "Ancestry": "French Canadian",
     "State": "Colorado",
-    "percapita": 76.078558069
+    "per capita": 51.089777078
   },
   {
     "Ancestry": "French Canadian",
     "State": "Arizona",
-    "percapita": 107.548993399
+    "per capita": 47.393709916
   },
   {
     "Ancestry": "French Canadian",
     "State": "Washington",
-    "percapita": 288.268121401
+    "per capita": 75.5346221
   },
   {
     "Ancestry": "French Canadian",
     "State": "Utah",
-    "percapita": 115.423533505
+    "per capita": 24.574382701
   },
   {
     "Ancestry": "French Canadian",
     "State": "Nevada",
-    "percapita": 91.813993381
+    "per capita": 42.907978905
   },
   {
     "Ancestry": "French Canadian",
     "State": "Connecticut",
-    "percapita": 1069.404690396
+    "per capita": 278.187337923
   },
   {
     "Ancestry": "French Canadian",
     "State": "Texas",
-    "percapita": 243.98026166
+    "per capita": 26.635423774
   },
   {
     "Ancestry": "French Canadian",
     "State": "North Carolina",
-    "percapita": 443.256225304
+    "per capita": 32.962709841
   },
   {
     "Ancestry": "French Canadian",
     "State": "New York",
-    "percapita": 126.878979047
+    "per capita": 63.894737967
   },
   {
     "Ancestry": "French Canadian",
     "State": "Pennsylvania",
-    "percapita": 282.484483587
+    "per capita": 23.310012373
   },
   {
     "Ancestry": "French Canadian",
     "State": "Georgia",
-    "percapita": 178.160713066
+    "per capita": 25.047183205
   },
   {
     "Ancestry": "French Canadian",
     "State": "Missouri",
-    "percapita": 139.47140377
+    "per capita": 23.543812089
   },
   {
     "Ancestry": "French Canadian",
     "State": "New Jersey",
-    "percapita": 98.021070479
+    "per capita": 22.871559351
   },
   {
     "Ancestry": "French Canadian",
     "State": "Virginia",
-    "percapita": 49.358991607
+    "per capita": 41.861386267
   },
   {
     "Ancestry": "French Canadian",
     "State": "California",
-    "percapita": 202.409843712
+    "per capita": 27.938406031
   }
 ]

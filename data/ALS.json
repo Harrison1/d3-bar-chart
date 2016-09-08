@@ -1,252 +1,257 @@
 [
   {
     "Ancestry": "Alsatian",
+    "State": "Wyoming",
+    "per capita": 0
+  },
+  {
+    "Ancestry": "Alsatian",
     "State": "New Hampshire",
-    "percapita": 0.09286012
+    "per capita": 0.625559141
   },
   {
     "Ancestry": "Alsatian",
     "State": "North Dakota",
-    "percapita": 0
+    "per capita": 0
   },
   {
     "Ancestry": "Alsatian",
     "State": "Montana",
-    "percapita": 0.223225793
+    "per capita": 0.410324948
   },
   {
     "Ancestry": "Alsatian",
     "State": "Arkansas",
-    "percapita": 0.006958315
+    "per capita": 0.091020369
   },
   {
     "Ancestry": "Alsatian",
     "State": "Vermont",
-    "percapita": 0.031226396
+    "per capita": 0.414962925
   },
   {
     "Ancestry": "Alsatian",
     "State": "Hawaii",
-    "percapita": 0.122364274
+    "per capita": 0.140888627
   },
   {
     "Ancestry": "Alsatian",
     "State": "District of Columbia",
-    "percapita": 0.014577775
+    "per capita": 0.440132161
   },
   {
     "Ancestry": "Alsatian",
     "State": "West Virginia",
-    "percapita": 0.034736913
+    "per capita": 0.108089061
   },
   {
     "Ancestry": "Alsatian",
     "State": "Oklahoma",
-    "percapita": 0.166236844
+    "per capita": 0.170188582
   },
   {
     "Ancestry": "Alsatian",
     "State": "Mississippi",
-    "percapita": 0.133584252
+    "per capita": 0.270533944
   },
   {
     "Ancestry": "Alsatian",
     "State": "South Carolina",
-    "percapita": 0.586046239
+    "per capita": 0.1034665
   },
   {
     "Ancestry": "Alsatian",
     "State": "Idaho",
-    "percapita": 0.017079976
+    "per capita": 0.134600701
   },
   {
     "Ancestry": "Alsatian",
     "State": "Tennessee",
-    "percapita": 0.018919049
+    "per capita": 0.077870299
   },
   {
     "Ancestry": "Alsatian",
     "State": "Rhode Island",
-    "percapita": 0.07863454
+    "per capita": 0.360130519
   },
   {
     "Ancestry": "Alsatian",
     "State": "New Mexico",
-    "percapita": 0.095208062
+    "per capita": 0.901431358
   },
   {
     "Ancestry": "Alsatian",
     "State": "Kentucky",
-    "percapita": 0.113986437
+    "per capita": 0.120087269
   },
   {
     "Ancestry": "Alsatian",
     "State": "South Dakota",
-    "percapita": 0.025956766
+    "per capita": 0.199255721
   },
   {
     "Ancestry": "Alsatian",
     "State": "Alaska",
-    "percapita": 0.047537809
+    "per capita": 0.434350619
   },
   {
     "Ancestry": "Alsatian",
     "State": "Iowa",
-    "percapita": 0.175618565
+    "per capita": 0.164138822
   },
   {
     "Ancestry": "Alsatian",
     "State": "Oregon",
-    "percapita": 0.108702376
+    "per capita": 0.350104868
   },
   {
     "Ancestry": "Alsatian",
     "State": "Kansas",
-    "percapita": 0.104226687
+    "per capita": 0.158401058
   },
   {
     "Ancestry": "Alsatian",
     "State": "Michigan",
-    "percapita": 0.304186801
+    "per capita": 0.167509647
   },
   {
     "Ancestry": "Alsatian",
     "State": "Louisiana",
-    "percapita": 1.165335553
+    "per capita": 0.333356561
   },
   {
     "Ancestry": "Alsatian",
     "State": "Maine",
-    "percapita": 0.092028538
+    "per capita": 0.413506164
   },
   {
     "Ancestry": "Alsatian",
     "State": "Illinois",
-    "percapita": 0.541166965
+    "per capita": 0.277161432
   },
   {
     "Ancestry": "Alsatian",
     "State": "Alabama",
-    "percapita": 0.651525928
+    "per capita": 0.098981787
   },
   {
     "Ancestry": "Alsatian",
     "State": "Massachusetts",
-    "percapita": 0.298691901
+    "per capita": 0.438817044
   },
   {
     "Ancestry": "Alsatian",
     "State": "Ohio",
-    "percapita": 1.088175478
+    "per capita": 0.363976253
   },
   {
     "Ancestry": "Alsatian",
     "State": "Minnesota",
-    "percapita": 0.320632822
+    "per capita": 0.175915259
   },
   {
     "Ancestry": "Alsatian",
     "State": "Florida",
-    "percapita": 0.641752984
+    "per capita": 0.32573786
   },
   {
     "Ancestry": "Alsatian",
     "State": "Indiana",
-    "percapita": 0.765981167
+    "per capita": 0.360777977
   },
   {
     "Ancestry": "Alsatian",
     "State": "Nebraska",
-    "percapita": 0.13384528
+    "per capita": 0.201966194
   },
   {
     "Ancestry": "Alsatian",
     "State": "Maryland",
-    "percapita": 0.259435752
+    "per capita": 0.292818076
   },
   {
     "Ancestry": "Alsatian",
     "State": "Wisconsin",
-    "percapita": 2.430869995
+    "per capita": 0.246632083
   },
   {
     "Ancestry": "Alsatian",
     "State": "Delaware",
-    "percapita": 0.652609756
+    "per capita": 0.459591242
   },
   {
     "Ancestry": "Alsatian",
     "State": "Colorado",
-    "percapita": 0.683964671
+    "per capita": 0.459309475
   },
   {
     "Ancestry": "Alsatian",
     "State": "Arizona",
-    "percapita": 0.704565076
+    "per capita": 0.310481314
   },
   {
     "Ancestry": "Alsatian",
     "State": "Washington",
-    "percapita": 1.529460214
+    "per capita": 0.400763007
   },
   {
     "Ancestry": "Alsatian",
     "State": "Utah",
-    "percapita": 0.159601125
+    "per capita": 0.033980065
   },
   {
     "Ancestry": "Alsatian",
     "State": "Nevada",
-    "percapita": 0.097979143
+    "per capita": 0.045789175
   },
   {
     "Ancestry": "Alsatian",
     "State": "Connecticut",
-    "percapita": 1.303956546
+    "per capita": 0.339201991
   },
   {
     "Ancestry": "Alsatian",
     "State": "Texas",
-    "percapita": 8.263951705
+    "per capita": 0.902178948
   },
   {
     "Ancestry": "Alsatian",
     "State": "North Carolina",
-    "percapita": 4.651904982
+    "per capita": 0.345938501
   },
   {
     "Ancestry": "Alsatian",
     "State": "New York",
-    "percapita": 1.015691529
+    "per capita": 0.511490119
   },
   {
     "Ancestry": "Alsatian",
     "State": "Pennsylvania",
-    "percapita": 6.908819691
+    "per capita": 0.57010095
   },
   {
     "Ancestry": "Alsatian",
     "State": "Georgia",
-    "percapita": 0.746709722
+    "per capita": 0.104978112
   },
   {
     "Ancestry": "Alsatian",
     "State": "Missouri",
-    "percapita": 1.846462266
+    "per capita": 0.311696588
   },
   {
     "Ancestry": "Alsatian",
     "State": "New Jersey",
-    "percapita": 1.946708145
+    "per capita": 0.454231429
   },
   {
     "Ancestry": "Alsatian",
     "State": "Virginia",
-    "percapita": 0.40925975
+    "per capita": 0.347093405
   },
   {
     "Ancestry": "Alsatian",
     "State": "California",
-    "percapita": 1.465682674
+    "per capita": 0.202306552
   }
 ]
