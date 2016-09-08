@@ -1,8 +1,13 @@
 [
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
+    "State": "Wyoming",
+    "percapita": 0
+  },
+  {
+    "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "New Hampshire",
-    "percapita": 0.008950373
+    "percapita": 0.060294857
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
@@ -22,62 +27,62 @@
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Vermont",
-    "percapita": 0.003603046
+    "percapita": 0.047880337
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Hawaii",
-    "percapita": 0.055063923
+    "percapita": 0.063399882
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "District of Columbia",
-    "percapita": 0.02664214
+    "percapita": 0.804379467
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "West Virginia",
-    "percapita": 0.097263357
+    "percapita": 0.302649371
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Oklahoma",
-    "percapita": 0.037781101
+    "percapita": 0.038679223
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Mississippi",
-    "percapita": 0.008245941
+    "percapita": 0.016699626
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "South Carolina",
-    "percapita": 1.793301491
+    "percapita": 0.316607491
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Idaho",
-    "percapita": 0.005434538
+    "percapita": 0.042827496
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Tennessee",
-    "percapita": 0.018548087
+    "percapita": 0.076343431
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Rhode Island",
-    "percapita": 0.13864511
+    "percapita": 0.634966968
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "New Mexico",
-    "percapita": 0.007089962
+    "percapita": 0.067127867
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Kentucky",
-    "percapita": 0.204315311
+    "percapita": 0.215250766
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
@@ -97,17 +102,17 @@
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Oregon",
-    "percapita": 0.043011731
+    "percapita": 0.138530703
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Kansas",
-    "percapita": 0.072505521
+    "percapita": 0.110192041
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Michigan",
-    "percapita": 0.285862295
+    "percapita": 0.157418705
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
@@ -117,136 +122,136 @@
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Maine",
-    "percapita": 0.035138169
+    "percapita": 0.157884172
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Illinois",
-    "percapita": 0.046992089
+    "percapita": 0.024067239
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Alabama",
-    "percapita": 0.936568522
+    "percapita": 0.142286318
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Massachusetts",
-    "percapita": 0.196773381
+    "percapita": 0.289085553
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Ohio",
-    "percapita": 0.087672906
+    "percapita": 0.029325101
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Minnesota",
-    "percapita": 0.043419028
+    "percapita": 0.023821858
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Florida",
-    "percapita": 0.859632083
+    "percapita": 0.436327875
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Indiana",
-    "percapita": 0.141609964
+    "percapita": 0.066698449
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Nebraska",
-    "percapita": 0.028177954
+    "percapita": 0.042519199
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Maryland",
-    "percapita": 0.444747004
+    "percapita": 0.501973845
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Wisconsin",
-    "percapita": 0.205425633
+    "percapita": 0.020842148
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Delaware",
-    "percapita": 0.774025525
+    "percapita": 0.545096589
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Colorado",
-    "percapita": 0.189063405
+    "percapita": 0.126963595
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Arizona",
-    "percapita": 0.262947732
+    "percapita": 0.115873409
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Washington",
-    "percapita": 0.275627106
+    "percapita": 0.072222309
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Utah",
-    "percapita": 0.287282025
+    "percapita": 0.061164116
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Nevada",
-    "percapita": 0.324084856
+    "percapita": 0.151456501
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Connecticut",
-    "percapita": 2.116257345
+    "percapita": 0.55050815
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Texas",
-    "percapita": 0.812123543
+    "percapita": 0.088659855
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "North Carolina",
-    "percapita": 1.69037245
+    "percapita": 0.125704397
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "New York",
-    "percapita": 0.501811953
+    "percapita": 0.252706504
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Pennsylvania",
-    "percapita": 4.757513697
+    "percapita": 0.392579804
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Georgia",
-    "percapita": 4.853613195
+    "percapita": 0.682357725
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Missouri",
-    "percapita": 0.175853549
+    "percapita": 0.029685389
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "New Jersey",
-    "percapita": 0.834303491
+    "percapita": 0.194670612
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "Virginia",
-    "percapita": 0.273311874
+    "percapita": 0.231795942
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - Bermudan",
     "State": "California",
-    "percapita": 0.814060695
+    "percapita": 0.112363894
   }
 ]

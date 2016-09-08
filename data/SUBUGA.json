@@ -1,13 +1,19 @@
+
 [
   {
     "Ancestry": "Subsaharan African: - Ugandan",
+    "State": "Wyoming",
+    "percapita": 0
+  },
+  {
+    "Ancestry": "Subsaharan African: - Ugandan",
     "State": "New Hampshire",
-    "percapita": 0.09621651
+    "percapita": 0.648169712
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "North Dakota",
-    "percapita": 0.321713607
+    "percapita": 5.044071391
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
@@ -22,17 +28,17 @@
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Vermont",
-    "percapita": 0.014412183
+    "percapita": 0.19152135
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Hawaii",
-    "percapita": 0.042827496
+    "percapita": 0.049311019
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "District of Columbia",
-    "percapita": 0.007540228
+    "percapita": 0.227654566
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
@@ -42,7 +48,7 @@
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Oklahoma",
-    "percapita": 0.045337321
+    "percapita": 0.046415068
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
@@ -52,17 +58,17 @@
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "South Carolina",
-    "percapita": 0.421953292
+    "percapita": 0.07449588
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Idaho",
-    "percapita": 0.002329088
+    "percapita": 0.018354641
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Tennessee",
-    "percapita": 0.080869659
+    "percapita": 0.332857357
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
@@ -72,181 +78,181 @@
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "New Mexico",
-    "percapita": 0.090143803
+    "percapita": 0.853482881
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Kentucky",
-    "percapita": 0.126890562
+    "percapita": 0.133682055
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "South Dakota",
-    "percapita": 0.064128482
+    "percapita": 0.492278841
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Alaska",
-    "percapita": 0.008913339
+    "percapita": 0.081440741
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Iowa",
-    "percapita": 0.37878514
+    "percapita": 0.354024909
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Oregon",
-    "percapita": 0.020332819
+    "percapita": 0.065487241
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Kansas",
-    "percapita": 0.036252761
+    "percapita": 0.05509602
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Michigan",
-    "percapita": 0.32984111
+    "percapita": 0.181636967
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Louisiana",
-    "percapita": 0.466134221
+    "percapita": 0.133342624
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Maine",
-    "percapita": 0.0435044
+    "percapita": 0.195475641
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Illinois",
-    "percapita": 0.773095665
+    "percapita": 0.395944903
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Alabama",
-    "percapita": 2.687544453
+    "percapita": 0.40829987
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Massachusetts",
-    "percapita": 2.554017573
+    "percapita": 3.752182225
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Ohio",
-    "percapita": 0.871571828
+    "percapita": 0.291526003
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Minnesota",
-    "percapita": 1.315930542
+    "percapita": 0.721985541
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Florida",
-    "percapita": 0.059421573
+    "percapita": 0.030160913
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Indiana",
-    "percapita": 0.502071689
+    "percapita": 0.236476321
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Nebraska",
-    "percapita": 0.095100594
+    "percapita": 0.143502296
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Maryland",
-    "percapita": 2.527645474
+    "percapita": 2.852884685
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Wisconsin",
-    "percapita": 0.599158097
+    "percapita": 0.060789598
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Delaware",
-    "percapita": 0.13659274
+    "percapita": 0.096193516
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Colorado",
-    "percapita": 0.506022643
+    "percapita": 0.339814327
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Arizona",
-    "percapita": 0.067422495
+    "percapita": 0.029711131
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Washington",
-    "percapita": 1.4159667
+    "percapita": 0.37102441
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Utah",
-    "percapita": 1.564091024
+    "percapita": 0.333004633
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Nevada",
-    "percapita": 0.520043141
+    "percapita": 0.24303485
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Connecticut",
-    "percapita": 3.997374986
+    "percapita": 1.039848727
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Texas",
-    "percapita": 1.831525481
+    "percapita": 0.199948377
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "North Carolina",
-    "percapita": 2.623458042
+    "percapita": 0.195093224
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "New York",
-    "percapita": 1.198717131
+    "percapita": 0.603659626
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Pennsylvania",
-    "percapita": 4.236272156
+    "percapita": 0.349568072
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Georgia",
-    "percapita": 1.444108425
+    "percapita": 0.203023706
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Missouri",
-    "percapita": 1.553373018
+    "percapita": 0.262220939
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "New Jersey",
-    "percapita": 1.822042106
+    "percapita": 0.425142716
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "Virginia",
-    "percapita": 0.994118838
+    "percapita": 0.8431127
   },
   {
     "Ancestry": "Subsaharan African: - Ugandan",
     "State": "California",
-    "percapita": 3.127412075
+    "percapita": 0.431673217
   }
 ]

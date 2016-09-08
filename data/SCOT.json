@@ -1,252 +1,257 @@
 [
   {
     "Ancestry": "Scottish",
+    "State": "Wyoming",
+    "percapita": 305.211134754
+  },
+  {
+    "Ancestry": "Scottish",
     "State": "New Hampshire",
-    "percapita": 62.866301007
+    "percapita": 423.503538178
   },
   {
     "Ancestry": "Scottish",
     "State": "North Dakota",
-    "percapita": 7.257099973
+    "percapita": 113.782350348
   },
   {
     "Ancestry": "Scottish",
     "State": "Montana",
-    "percapita": 162.986718597
+    "percapita": 299.595829926
   },
   {
     "Ancestry": "Scottish",
     "State": "Arkansas",
-    "percapita": 12.759229431
+    "percapita": 166.901016023
   },
   {
     "Ancestry": "Scottish",
     "State": "Vermont",
-    "percapita": 32.766097838
+    "percapita": 435.423788867
   },
   {
     "Ancestry": "Scottish",
     "State": "Hawaii",
-    "percapita": 95.84793547
+    "percapita": 110.358061401
   },
   {
     "Ancestry": "Scottish",
     "State": "District of Columbia",
-    "percapita": 4.141093354
+    "percapita": 125.027887684
   },
   {
     "Ancestry": "Scottish",
     "State": "West Virginia",
-    "percapita": 68.103454864
+    "percapita": 211.914008667
   },
   {
     "Ancestry": "Scottish",
     "State": "Oklahoma",
-    "percapita": 165.576933782
+    "percapita": 169.512984744
   },
   {
     "Ancestry": "Scottish",
     "State": "Mississippi",
-    "percapita": 72.043141446
+    "percapita": 145.901293854
   },
   {
     "Ancestry": "Scottish",
     "State": "South Carolina",
-    "percapita": 1224.871802385
+    "percapita": 216.251193486
   },
   {
     "Ancestry": "Scottish",
     "State": "Idaho",
-    "percapita": 38.149679595
+    "percapita": 300.642901893
   },
   {
     "Ancestry": "Scottish",
     "State": "Tennessee",
-    "percapita": 49.767855854
+    "percapita": 204.843166164
   },
   {
     "Ancestry": "Scottish",
     "State": "Rhode Island",
-    "percapita": 41.521106545
+    "percapita": 190.158391088
   },
   {
     "Ancestry": "Scottish",
     "State": "New Mexico",
-    "percapita": 16.110419474
+    "percapita": 152.533693394
   },
   {
     "Ancestry": "Scottish",
     "State": "Kentucky",
-    "percapita": 177.55430701
+    "percapita": 187.057447257
   },
   {
     "Ancestry": "Scottish",
     "State": "South Dakota",
-    "percapita": 14.966366138
+    "percapita": 114.888504703
   },
   {
     "Ancestry": "Scottish",
     "State": "Alaska",
-    "percapita": 29.58782937
+    "percapita": 270.342539757
   },
   {
     "Ancestry": "Scottish",
     "State": "Iowa",
-    "percapita": 160.3156451
+    "percapita": 149.836215203
   },
   {
     "Ancestry": "Scottish",
     "State": "Oregon",
-    "percapita": 94.657090535
+    "percapita": 304.868296342
   },
   {
     "Ancestry": "Scottish",
     "State": "Kansas",
-    "percapita": 126.914117437
+    "percapita": 192.880836606
   },
   {
     "Ancestry": "Scottish",
     "State": "Michigan",
-    "percapita": 401.667676652
+    "percapita": 221.190434553
   },
   {
     "Ancestry": "Scottish",
     "State": "Louisiana",
-    "percapita": 348.097007042
+    "percapita": 99.57683073
   },
   {
     "Ancestry": "Scottish",
     "State": "Maine",
-    "percapita": 114.64078668
+    "percapita": 515.108387484
   },
   {
     "Ancestry": "Scottish",
     "State": "Illinois",
-    "percapita": 226.930863267
+    "percapita": 116.223803586
   },
   {
     "Ancestry": "Scottish",
     "State": "Alabama",
-    "percapita": 1183.537568614
+    "percapita": 179.806601961
   },
   {
     "Ancestry": "Scottish",
     "State": "Massachusetts",
-    "percapita": 157.036257867
+    "percapita": 230.70657846
   },
   {
     "Ancestry": "Scottish",
     "State": "Ohio",
-    "percapita": 543.360569523
+    "percapita": 181.74490043
   },
   {
     "Ancestry": "Scottish",
     "State": "Minnesota",
-    "percapita": 218.27079379
+    "percapita": 119.754312352
   },
   {
     "Ancestry": "Scottish",
     "State": "Florida",
-    "percapita": 298.521105998
+    "percapita": 151.521892022
   },
   {
     "Ancestry": "Scottish",
     "State": "Indiana",
-    "percapita": 364.172550453
+    "percapita": 171.525673976
   },
   {
     "Ancestry": "Scottish",
     "State": "Nebraska",
-    "percapita": 85.203087317
+    "percapita": 128.567427211
   },
   {
     "Ancestry": "Scottish",
     "State": "Maryland",
-    "percapita": 142.563652191
+    "percapita": 160.907715957
   },
   {
     "Ancestry": "Scottish",
     "State": "Wisconsin",
-    "percapita": 1047.55089848
+    "percapita": 106.282795988
   },
   {
     "Ancestry": "Scottish",
     "State": "Delaware",
-    "percapita": 215.179095847
+    "percapita": 151.536851736
   },
   {
     "Ancestry": "Scottish",
     "State": "Colorado",
-    "percapita": 370.099956154
+    "percapita": 248.536837927
   },
   {
     "Ancestry": "Scottish",
     "State": "Arizona",
-    "percapita": 406.294699007
+    "percapita": 179.04224388
   },
   {
     "Ancestry": "Scottish",
     "State": "Washington",
-    "percapita": 1079.858360094
+    "percapita": 282.954260621
   },
   {
     "Ancestry": "Scottish",
     "State": "Utah",
-    "percapita": 2057.178698995
+    "percapita": 437.986042349
   },
   {
     "Ancestry": "Scottish",
     "State": "Nevada",
-    "percapita": 340.243877623
+    "percapita": 159.008192388
   },
   {
     "Ancestry": "Scottish",
     "State": "Connecticut",
-    "percapita": 706.103157926
+    "percapita": 183.680658563
   },
   {
     "Ancestry": "Scottish",
     "State": "Texas",
-    "percapita": 1249.956675418
+    "percapita": 136.458275448
   },
   {
     "Ancestry": "Scottish",
     "State": "North Carolina",
-    "percapita": 3241.174227365
+    "percapita": 241.029633655
   },
   {
     "Ancestry": "Scottish",
     "State": "New York",
-    "percapita": 208.410851045
+    "percapita": 104.953214607
   },
   {
     "Ancestry": "Scottish",
     "State": "Pennsylvania",
-    "percapita": 1816.687879618
+    "percapita": 149.909178774
   },
   {
     "Ancestry": "Scottish",
     "State": "Georgia",
-    "percapita": 1219.440376285
+    "percapita": 171.438169427
   },
   {
     "Ancestry": "Scottish",
     "State": "Missouri",
-    "percapita": 998.71138427
+    "percapita": 168.589922569
   },
   {
     "Ancestry": "Scottish",
     "State": "New Jersey",
-    "percapita": 441.404084827
+    "percapita": 102.994179461
   },
   {
     "Ancestry": "Scottish",
     "State": "Virginia",
-    "percapita": 246.963476754
+    "percapita": 209.449852149
   },
   {
     "Ancestry": "Scottish",
     "State": "California",
-    "percapita": 949.807183376
+    "percapita": 131.100831132
   }
 ]

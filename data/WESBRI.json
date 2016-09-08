@@ -1,13 +1,18 @@
 [
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
+    "State": "Wyoming",
+    "percapita": 0
+  },
+  {
+    "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "New Hampshire",
-    "percapita": 0.043633068
+    "percapita": 0.293937428
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "North Dakota",
-    "percapita": 0.019837568
+    "percapita": 0.311028531
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
@@ -17,42 +22,42 @@
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Arkansas",
-    "percapita": 0.014174344
+    "percapita": 0.185411862
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Vermont",
-    "percapita": 0.006005076
+    "percapita": 0.079800562
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Hawaii",
-    "percapita": 0.721949214
+    "percapita": 0.831242898
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "District of Columbia",
-    "percapita": 0.166387703
+    "percapita": 5.023577425
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "West Virginia",
-    "percapita": 0.114631813
+    "percapita": 0.356693902
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Oklahoma",
-    "percapita": 0.47100439
+    "percapita": 0.482200982
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Mississippi",
-    "percapita": 0.181410712
+    "percapita": 0.367391776
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "South Carolina",
-    "percapita": 8.907902834
+    "percapita": 1.572690804
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
@@ -62,191 +67,191 @@
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Tennessee",
-    "percapita": 0.087917932
+    "percapita": 0.361867861
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Rhode Island",
-    "percapita": 0.248319601
+    "percapita": 1.13725427
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "New Mexico",
-    "percapita": 0.014179924
+    "percapita": 0.134255734
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Kentucky",
-    "percapita": 0.580685622
+    "percapita": 0.611765335
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "South Dakota",
-    "percapita": 0.016795555
+    "percapita": 0.128930173
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Alaska",
-    "percapita": 0.066850044
+    "percapita": 0.610805558
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Iowa",
-    "percapita": 0.327132621
+    "percapita": 0.305748785
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Oregon",
-    "percapita": 0.044575794
+    "percapita": 0.143568183
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Kansas",
-    "percapita": 0.181263803
+    "percapita": 0.275480102
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Michigan",
-    "percapita": 0.590049097
+    "percapita": 0.324928352
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Louisiana",
-    "percapita": 2.383299163
+    "percapita": 0.681767934
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Maine",
-    "percapita": 0.092028538
+    "percapita": 0.413506164
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Illinois",
-    "percapita": 0.663952747
+    "percapita": 0.340046799
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Alabama",
-    "percapita": 1.669535191
+    "percapita": 0.253640829
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Massachusetts",
-    "percapita": 2.770972839
+    "percapita": 4.070917578
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Ohio",
-    "percapita": 0.590502807
+    "percapita": 0.19751318
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Minnesota",
-    "percapita": 0.394111177
+    "percapita": 0.216229172
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Florida",
-    "percapita": 12.642929927
+    "percapita": 6.417236922
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Indiana",
-    "percapita": 1.551272784
+    "percapita": 0.730651197
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Nebraska",
-    "percapita": 0.348702176
+    "percapita": 0.526175084
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Maryland",
-    "percapita": 4.044232758
+    "percapita": 4.564615496
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Wisconsin",
-    "percapita": 1.66052387
+    "percapita": 0.168474028
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Delaware",
-    "percapita": 1.168626772
+    "percapita": 0.822988968
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Colorado",
-    "percapita": 0.90917255
+    "percapita": 0.610545521
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Arizona",
-    "percapita": 1.405759027
+    "percapita": 0.619477072
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Washington",
-    "percapita": 1.956412005
+    "percapita": 0.51263678
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Utah",
-    "percapita": 2.44189721
+    "percapita": 0.519894988
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Nevada",
-    "percapita": 0.798906854
+    "percapita": 0.373357886
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Connecticut",
-    "percapita": 22.295519306
+    "percapita": 5.79979798
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Texas",
-    "percapita": 9.677522391
+    "percapita": 1.056499031
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "North Carolina",
-    "percapita": 13.550025558
+    "percapita": 1.007646448
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "New York",
-    "percapita": 52.322192639
+    "percapita": 26.348831096
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Pennsylvania",
-    "percapita": 17.636918306
+    "percapita": 1.455360587
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Georgia",
-    "percapita": 27.853681525
+    "percapita": 3.915881633
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Missouri",
-    "percapita": 2.188399723
+    "percapita": 0.369418178
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "New Jersey",
-    "percapita": 26.146304227
+    "percapita": 6.100797982
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "Virginia",
-    "percapita": 1.816886709
+    "percapita": 1.540902556
   },
   {
     "Ancestry": "West Indian (except Hispanic groups): - British West Indian",
     "State": "California",
-    "percapita": 3.485897519
+    "percapita": 0.481154565
   }
 ]

@@ -1,252 +1,257 @@
 [
   {
     "Ancestry": "Swiss",
+    "State": "Wyoming",
+    "percapita": 53.77015953
+  },
+  {
+    "Ancestry": "Swiss",
     "State": "New Hampshire",
-    "percapita": 3.727830346
+    "percapita": 25.112807909
   },
   {
     "Ancestry": "Swiss",
     "State": "North Dakota",
-    "percapita": 1.503342673
+    "percapita": 23.570553441
   },
   {
     "Ancestry": "Swiss",
     "State": "Montana",
-    "percapita": 29.651826226
+    "percapita": 54.504830599
   },
   {
     "Ancestry": "Swiss",
     "State": "Arkansas",
-    "percapita": 1.452483732
+    "percapita": 18.999659179
   },
   {
     "Ancestry": "Swiss",
     "State": "Vermont",
-    "percapita": 2.680666021
+    "percapita": 35.622971071
   },
   {
     "Ancestry": "Swiss",
     "State": "Hawaii",
-    "percapita": 17.412436126
+    "percapita": 20.048451599
   },
   {
     "Ancestry": "Swiss",
     "State": "District of Columbia",
-    "percapita": 0.987267219
+    "percapita": 29.807571184
   },
   {
     "Ancestry": "Swiss",
     "State": "West Virginia",
-    "percapita": 6.864014017
+    "percapita": 21.358398466
   },
   {
     "Ancestry": "Swiss",
     "State": "Oklahoma",
-    "percapita": 17.860385735
+    "percapita": 18.284958088
   },
   {
     "Ancestry": "Swiss",
     "State": "Mississippi",
-    "percapita": 3.474839736
+    "percapita": 7.037222465
   },
   {
     "Ancestry": "Swiss",
     "State": "South Carolina",
-    "percapita": 91.282562194
+    "percapita": 16.115942077
   },
   {
     "Ancestry": "Swiss",
     "State": "Idaho",
-    "percapita": 9.088876433
+    "percapita": 71.625927521
   },
   {
     "Ancestry": "Swiss",
     "State": "Tennessee",
-    "percapita": 4.110256061
+    "percapita": 16.917704225
   },
   {
     "Ancestry": "Swiss",
     "State": "Rhode Island",
-    "percapita": 2.371452185
+    "percapita": 10.86077828
   },
   {
     "Ancestry": "Swiss",
     "State": "New Mexico",
-    "percapita": 2.06267253
+    "percapita": 19.529414472
   },
   {
     "Ancestry": "Swiss",
     "State": "Kentucky",
-    "percapita": 22.47253357
+    "percapita": 23.675318464
   },
   {
     "Ancestry": "Swiss",
     "State": "South Dakota",
-    "percapita": 4.959269253
+    "percapita": 38.069563689
   },
   {
     "Ancestry": "Swiss",
     "State": "Alaska",
-    "percapita": 5.814468251
+    "percapita": 53.126510047
   },
   {
     "Ancestry": "Swiss",
     "State": "Iowa",
-    "percapita": 49.407356214
+    "percapita": 46.177721792
   },
   {
     "Ancestry": "Swiss",
     "State": "Oregon",
-    "percapita": 22.835319263
+    "percapita": 73.547209626
   },
   {
     "Ancestry": "Swiss",
     "State": "Kansas",
-    "percapita": 33.941647103
+    "percapita": 51.583649016
   },
   {
     "Ancestry": "Swiss",
     "State": "Michigan",
-    "percapita": 42.652120429
+    "percapita": 23.487678
   },
   {
     "Ancestry": "Swiss",
     "State": "Louisiana",
-    "percapita": 23.50970499
+    "percapita": 6.725199777
   },
   {
     "Ancestry": "Swiss",
     "State": "Maine",
-    "percapita": 4.126225004
+    "percapita": 18.540112729
   },
   {
     "Ancestry": "Swiss",
     "State": "Illinois",
-    "percapita": 52.81152913
+    "percapita": 27.047695057
   },
   {
     "Ancestry": "Swiss",
     "State": "Alabama",
-    "percapita": 63.116574277
+    "percapita": 9.58886059
   },
   {
     "Ancestry": "Swiss",
     "State": "Massachusetts",
-    "percapita": 11.124255124
+    "percapita": 16.342969914
   },
   {
     "Ancestry": "Swiss",
     "State": "Ohio",
-    "percapita": 190.36108602
+    "percapita": 63.672556613
   },
   {
     "Ancestry": "Swiss",
     "State": "Minnesota",
-    "percapita": 75.57582816
+    "percapita": 41.464692433
   },
   {
     "Ancestry": "Swiss",
     "State": "Florida",
-    "percapita": 35.344941734
+    "percapita": 17.940213731
   },
   {
     "Ancestry": "Swiss",
     "State": "Indiana",
-    "percapita": 124.613549628
+    "percapita": 58.693119676
   },
   {
     "Ancestry": "Swiss",
     "State": "Nebraska",
-    "percapita": 27.628483544
+    "percapita": 41.690074371
   },
   {
     "Ancestry": "Swiss",
     "State": "Maryland",
-    "percapita": 17.850662258
+    "percapita": 20.147556885
   },
   {
     "Ancestry": "Swiss",
     "State": "Wisconsin",
-    "percapita": 1007.08204871
+    "percapita": 102.176892866
   },
   {
     "Ancestry": "Swiss",
     "State": "Delaware",
-    "percapita": 26.665938172
+    "percapita": 18.779111899
   },
   {
     "Ancestry": "Swiss",
     "State": "Colorado",
-    "percapita": 66.19165413
+    "percapita": 44.450327921
   },
   {
     "Ancestry": "Swiss",
     "State": "Arizona",
-    "percapita": 60.467864922
+    "percapita": 26.646427445
   },
   {
     "Ancestry": "Swiss",
     "State": "Washington",
-    "percapita": 199.186521726
+    "percapita": 52.192655133
   },
   {
     "Ancestry": "Swiss",
     "State": "Utah",
-    "percapita": 559.162540978
+    "percapita": 119.049156241
   },
   {
     "Ancestry": "Swiss",
     "State": "Nevada",
-    "percapita": 63.573389769
+    "percapita": 29.710129869
   },
   {
     "Ancestry": "Swiss",
     "State": "Connecticut",
-    "percapita": 88.145324888
+    "percapita": 22.929498534
   },
   {
     "Ancestry": "Swiss",
     "State": "Texas",
-    "percapita": 110.615304213
+    "percapita": 12.075917468
   },
   {
     "Ancestry": "Swiss",
     "State": "North Carolina",
-    "percapita": 218.206798813
+    "percapita": 16.226929221
   },
   {
     "Ancestry": "Swiss",
     "State": "New York",
-    "percapita": 35.486854136
+    "percapita": 17.870755765
   },
   {
     "Ancestry": "Swiss",
     "State": "Pennsylvania",
-    "percapita": 621.509458639
+    "percapita": 51.285624564
   },
   {
     "Ancestry": "Swiss",
     "State": "Georgia",
-    "percapita": 78.996253067
+    "percapita": 11.105891916
   },
   {
     "Ancestry": "Swiss",
     "State": "Missouri",
-    "percapita": 237.548835996
+    "percapita": 40.100013375
   },
   {
     "Ancestry": "Swiss",
     "State": "New Jersey",
-    "percapita": 79.632829746
+    "percapita": 18.580974304
   },
   {
     "Ancestry": "Swiss",
     "State": "Virginia",
-    "percapita": 28.227593737
+    "percapita": 23.939836823
   },
   {
     "Ancestry": "Swiss",
     "State": "California",
-    "percapita": 191.554456366
+    "percapita": 26.440048966
   }
 ]

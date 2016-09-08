@@ -1,8 +1,13 @@
 [
   {
     "Ancestry": "Maltese",
+    "State": "Wyoming",
+    "percapita": 0.205425633
+  },
+  {
+    "Ancestry": "Maltese",
     "State": "New Hampshire",
-    "percapita": 0.238303681
+    "percapita": 1.605350566
   },
   {
     "Ancestry": "Maltese",
@@ -17,57 +22,57 @@
   {
     "Ancestry": "Maltese",
     "State": "Arkansas",
-    "percapita": 0.014689775
+    "percapita": 0.192154112
   },
   {
     "Ancestry": "Maltese",
     "State": "Vermont",
-    "percapita": 0.034829442
+    "percapita": 0.462843262
   },
   {
     "Ancestry": "Maltese",
     "State": "Hawaii",
-    "percapita": 0.134600701
+    "percapita": 0.15497749
   },
   {
     "Ancestry": "Maltese",
     "State": "District of Columbia",
-    "percapita": 0.025134094
+    "percapita": 0.758848554
   },
   {
     "Ancestry": "Maltese",
     "State": "West Virginia",
-    "percapita": 0.144158189
+    "percapita": 0.448569603
   },
   {
     "Ancestry": "Maltese",
     "State": "Oklahoma",
-    "percapita": 0.027706141
+    "percapita": 0.028364764
   },
   {
     "Ancestry": "Maltese",
     "State": "Mississippi",
-    "percapita": 0.207797725
+    "percapita": 0.420830579
   },
   {
     "Ancestry": "Maltese",
     "State": "South Carolina",
-    "percapita": 4.782137311
+    "percapita": 0.844286642
   },
   {
     "Ancestry": "Maltese",
     "State": "Idaho",
-    "percapita": 0.037265403
+    "percapita": 0.293674257
   },
   {
     "Ancestry": "Maltese",
     "State": "Tennessee",
-    "percapita": 0.089030817
+    "percapita": 0.366448467
   },
   {
     "Ancestry": "Maltese",
     "State": "Rhode Island",
-    "percapita": 0.12829846
+    "percapita": 0.587581373
   },
   {
     "Ancestry": "Maltese",
@@ -77,7 +82,7 @@
   {
     "Ancestry": "Maltese",
     "State": "Kentucky",
-    "percapita": 0.348411373
+    "percapita": 0.367059201
   },
   {
     "Ancestry": "Maltese",
@@ -87,166 +92,166 @@
   {
     "Ancestry": "Maltese",
     "State": "Alaska",
-    "percapita": 0.005942226
+    "percapita": 0.054293827
   },
   {
     "Ancestry": "Maltese",
     "State": "Iowa",
-    "percapita": 0.530299195
+    "percapita": 0.495634873
   },
   {
     "Ancestry": "Maltese",
     "State": "Oregon",
-    "percapita": 0.312030561
+    "percapita": 1.004977282
   },
   {
     "Ancestry": "Maltese",
     "State": "Kansas",
-    "percapita": 0.090631901
+    "percapita": 0.137740051
   },
   {
     "Ancestry": "Maltese",
     "State": "Michigan",
-    "percapita": 22.561131927
+    "percapita": 12.423968532
   },
   {
     "Ancestry": "Maltese",
     "State": "Louisiana",
-    "percapita": 0.390951282
+    "percapita": 0.111835749
   },
   {
     "Ancestry": "Maltese",
     "State": "Maine",
-    "percapita": 0.097048277
+    "percapita": 0.436061046
   },
   {
     "Ancestry": "Maltese",
     "State": "Illinois",
-    "percapita": 0.589674928
+    "percapita": 0.302005034
   },
   {
     "Ancestry": "Maltese",
     "State": "Alabama",
-    "percapita": 1.832416673
+    "percapita": 0.278386275
   },
   {
     "Ancestry": "Maltese",
     "State": "Massachusetts",
-    "percapita": 0.391528573
+    "percapita": 0.575206125
   },
   {
     "Ancestry": "Maltese",
     "State": "Ohio",
-    "percapita": 1.010817032
+    "percapita": 0.338101163
   },
   {
     "Ancestry": "Maltese",
     "State": "Minnesota",
-    "percapita": 0.470929458
+    "percapita": 0.258375536
   },
   {
     "Ancestry": "Maltese",
     "State": "Florida",
-    "percapita": 2.638317823
+    "percapita": 1.339144537
   },
   {
     "Ancestry": "Maltese",
     "State": "Indiana",
-    "percapita": 0.788510025
+    "percapita": 0.371389094
   },
   {
     "Ancestry": "Maltese",
     "State": "Nebraska",
-    "percapita": 0.105667326
+    "percapita": 0.159446995
   },
   {
     "Ancestry": "Maltese",
     "State": "Maryland",
-    "percapita": 0.174933822
+    "percapita": 0.197443046
   },
   {
     "Ancestry": "Maltese",
     "State": "Wisconsin",
-    "percapita": 3.475116964
+    "percapita": 0.352579667
   },
   {
     "Ancestry": "Maltese",
     "State": "Delaware",
-    "percapita": 0.485663074
+    "percapita": 0.342021389
   },
   {
     "Ancestry": "Maltese",
     "State": "Colorado",
-    "percapita": 0.500461954
+    "percapita": 0.336080104
   },
   {
     "Ancestry": "Maltese",
     "State": "Arizona",
-    "percapita": 2.00919036
+    "percapita": 0.885391691
   },
   {
     "Ancestry": "Maltese",
     "State": "Washington",
-    "percapita": 3.934441823
+    "percapita": 1.030938055
   },
   {
     "Ancestry": "Maltese",
     "State": "Utah",
-    "percapita": 1.532170799
+    "percapita": 0.32620862
   },
   {
     "Ancestry": "Maltese",
     "State": "Nevada",
-    "percapita": 1.808845708
+    "percapita": 0.845338609
   },
   {
     "Ancestry": "Maltese",
     "State": "Connecticut",
-    "percapita": 6.423589215
+    "percapita": 1.670986858
   },
   {
     "Ancestry": "Maltese",
     "State": "Texas",
-    "percapita": 2.922285554
+    "percapita": 0.319027095
   },
   {
     "Ancestry": "Maltese",
     "State": "North Carolina",
-    "percapita": 8.478908209
+    "percapita": 0.630533256
   },
   {
     "Ancestry": "Maltese",
     "State": "New York",
-    "percapita": 6.371704483
+    "percapita": 3.208714252
   },
   {
     "Ancestry": "Maltese",
     "State": "Pennsylvania",
-    "percapita": 6.273852724
+    "percapita": 0.517704841
   },
   {
     "Ancestry": "Maltese",
     "State": "Georgia",
-    "percapita": 2.20490701
+    "percapita": 0.309982537
   },
   {
     "Ancestry": "Maltese",
     "State": "Missouri",
-    "percapita": 0.96719452
+    "percapita": 0.163269641
   },
   {
     "Ancestry": "Maltese",
     "State": "New Jersey",
-    "percapita": 6.103841057
+    "percapita": 1.4242281
   },
   {
     "Ancestry": "Maltese",
     "State": "Virginia",
-    "percapita": 0.943138385
+    "percapita": 0.799876151
   },
   {
     "Ancestry": "Maltese",
     "State": "California",
-    "percapita": 13.807290922
+    "percapita": 1.905805038
   }
 ]

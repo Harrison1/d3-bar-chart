@@ -1,13 +1,18 @@
 [
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
+    "State": "Wyoming",
+    "percapita": 0
+  },
+  {
+    "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "New Hampshire",
-    "percapita": 0.33787658
+    "percapita": 2.276130849
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "North Dakota",
-    "percapita": 0.004312515
+    "percapita": 0.067614898
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
@@ -22,72 +27,72 @@
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Vermont",
-    "percapita": 0.12370457
+    "percapita": 1.643891586
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Hawaii",
-    "percapita": 0.208019265
+    "percapita": 0.239510666
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "District of Columbia",
-    "percapita": 0.080429101
+    "percapita": 2.428315371
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "West Virginia",
-    "percapita": 0.01215792
+    "percapita": 0.037831171
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Oklahoma",
-    "percapita": 0.284617626
+    "percapita": 0.291383481
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Mississippi",
-    "percapita": 0.07751185
+    "percapita": 0.156976486
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "South Carolina",
-    "percapita": 1.500278372
+    "percapita": 0.264874241
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Idaho",
-    "percapita": 0.023290877
+    "percapita": 0.18354641
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Tennessee",
-    "percapita": 0.00853212
+    "percapita": 0.035117978
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Rhode Island",
-    "percapita": 45.018274253
+    "percapita": 206.17472206
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "New Mexico",
-    "percapita": 0.007596388
+    "percapita": 0.071922715
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Kentucky",
-    "percapita": 0.133342624
+    "percapita": 0.140479447
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "South Dakota",
-    "percapita": 0.015268686
+    "percapita": 0.117209248
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Alaska",
-    "percapita": 0.017826678
+    "percapita": 0.162881482
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
@@ -97,17 +102,17 @@
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Oregon",
-    "percapita": 0.132945352
+    "percapita": 0.428185809
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Kansas",
-    "percapita": 0.126884662
+    "percapita": 0.192836071
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Michigan",
-    "percapita": 0.117276839
+    "percapita": 0.064582033
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
@@ -117,42 +122,42 @@
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Maine",
-    "percapita": 0.373133891
+    "percapita": 1.676579537
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Illinois",
-    "percapita": 0.178873115
+    "percapita": 0.091610782
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Alabama",
-    "percapita": 0.339336421
+    "percapita": 0.051553014
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Massachusetts",
-    "percapita": 60.864529398
+    "percapita": 89.417867681
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Ohio",
-    "percapita": 0.636917874
+    "percapita": 0.213038233
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Minnesota",
-    "percapita": 0.233794766
+    "percapita": 0.128271543
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Florida",
-    "percapita": 2.743295934
+    "percapita": 1.392428817
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Indiana",
-    "percapita": 0.061149757
+    "percapita": 0.028801603
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
@@ -162,91 +167,91 @@
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Maryland",
-    "percapita": 1.313486152
+    "percapita": 1.482496088
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Wisconsin",
-    "percapita": 0.6162769
+    "percapita": 0.062526443
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Delaware",
-    "percapita": 0.743671582
+    "percapita": 0.523720252
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Colorado",
-    "percapita": 0.169600996
+    "percapita": 0.113893813
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Arizona",
-    "percapita": 0.691080577
+    "percapita": 0.304539088
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Washington",
-    "percapita": 0.913352566
+    "percapita": 0.239324906
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Utah",
-    "percapita": 0.3830427
+    "percapita": 0.081552155
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Nevada",
-    "percapita": 0.685853998
+    "percapita": 0.320524223
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Connecticut",
-    "percapita": 42.65648013
+    "percapita": 11.096353662
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Texas",
-    "percapita": 3.46256858
+    "percapita": 0.378010011
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "North Carolina",
-    "percapita": 16.322236376
+    "percapita": 1.213801659
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "New York",
-    "percapita": 1.348556773
+    "percapita": 0.679117079
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Pennsylvania",
-    "percapita": 3.715030616
+    "percapita": 0.306556341
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Georgia",
-    "percapita": 7.917940828
+    "percapita": 1.113164126
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Missouri",
-    "percapita": 1.914849758
+    "percapita": 0.323240906
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "New Jersey",
-    "percapita": 6.012738951
+    "percapita": 1.402970964
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "Virginia",
-    "percapita": 1.486929886
+    "percapita": 1.261066004
   },
   {
     "Ancestry": "Subsaharan African: - Cape Verdean",
     "State": "California",
-    "percapita": 4.740596572
+    "percapita": 0.654339282
   }
 ]

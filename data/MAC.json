@@ -1,48 +1,53 @@
 [
   {
     "Ancestry": "Macedonian",
+    "State": "Wyoming",
+    "percapita": 0.6162769
+  },
+  {
+    "Ancestry": "Macedonian",
     "State": "New Hampshire",
-    "percapita": 0.058177424
+    "percapita": 0.39191657
   },
   {
     "Ancestry": "Macedonian",
     "State": "North Dakota",
-    "percapita": 0.012937545
+    "percapita": 0.202844694
   },
   {
     "Ancestry": "Macedonian",
     "State": "Montana",
-    "percapita": 0.520860185
+    "percapita": 0.957424879
   },
   {
     "Ancestry": "Macedonian",
     "State": "Arkansas",
-    "percapita": 0.018813221
+    "percapita": 0.246092108
   },
   {
     "Ancestry": "Macedonian",
     "State": "Vermont",
-    "percapita": 0.028824366
+    "percapita": 0.3830427
   },
   {
     "Ancestry": "Macedonian",
     "State": "Hawaii",
-    "percapita": 0.030591068
+    "percapita": 0.035222157
   },
   {
     "Ancestry": "Macedonian",
     "State": "District of Columbia",
-    "percapita": 0.02664214
+    "percapita": 0.804379467
   },
   {
     "Ancestry": "Macedonian",
     "State": "West Virginia",
-    "percapita": 0.03994745
+    "percapita": 0.12430242
   },
   {
     "Ancestry": "Macedonian",
     "State": "Oklahoma",
-    "percapita": 0.211574165
+    "percapita": 0.21660365
   },
   {
     "Ancestry": "Macedonian",
@@ -52,201 +57,201 @@
   {
     "Ancestry": "Macedonian",
     "State": "South Carolina",
-    "percapita": 2.039440912
+    "percapita": 0.360063421
   },
   {
     "Ancestry": "Macedonian",
     "State": "Idaho",
-    "percapita": 0.008539988
+    "percapita": 0.06730035
   },
   {
     "Ancestry": "Macedonian",
     "State": "Tennessee",
-    "percapita": 0.045999256
+    "percapita": 0.189331708
   },
   {
     "Ancestry": "Macedonian",
     "State": "Rhode Island",
-    "percapita": 0.02483196
+    "percapita": 0.113725427
   },
   {
     "Ancestry": "Macedonian",
     "State": "New Mexico",
-    "percapita": 0.038488365
+    "percapita": 0.364408421
   },
   {
     "Ancestry": "Macedonian",
     "State": "Kentucky",
-    "percapita": 0.154849499
+    "percapita": 0.163137423
   },
   {
     "Ancestry": "Macedonian",
     "State": "South Dakota",
-    "percapita": 0.051913533
+    "percapita": 0.398511443
   },
   {
     "Ancestry": "Macedonian",
     "State": "Alaska",
-    "percapita": 0.494690324
+    "percapita": 4.519961126
   },
   {
     "Ancestry": "Macedonian",
     "State": "Iowa",
-    "percapita": 0.354680631
+    "percapita": 0.331496051
   },
   {
     "Ancestry": "Macedonian",
     "State": "Oregon",
-    "percapita": 0.159534422
+    "percapita": 0.513822971
   },
   {
     "Ancestry": "Macedonian",
     "State": "Kansas",
-    "percapita": 0.310414263
+    "percapita": 0.471759674
   },
   {
     "Ancestry": "Macedonian",
     "State": "Michigan",
-    "percapita": 16.24650712
+    "percapita": 8.946629711
   },
   {
     "Ancestry": "Macedonian",
     "State": "Louisiana",
-    "percapita": 0.969859912
+    "percapita": 0.277438686
   },
   {
     "Ancestry": "Macedonian",
     "State": "Maine",
-    "percapita": 0.015059215
+    "percapita": 0.067664645
   },
   {
     "Ancestry": "Macedonian",
     "State": "Illinois",
-    "percapita": 7.674869313
+    "percapita": 3.930723616
   },
   {
     "Ancestry": "Macedonian",
     "State": "Alabama",
-    "percapita": 1.37091914
+    "percapita": 0.208274176
   },
   {
     "Ancestry": "Macedonian",
     "State": "Massachusetts",
-    "percapita": 0.667011306
+    "percapita": 0.979925899
   },
   {
     "Ancestry": "Macedonian",
     "State": "Ohio",
-    "percapita": 12.954961139
+    "percapita": 4.333214912
   },
   {
     "Ancestry": "Macedonian",
     "State": "Minnesota",
-    "percapita": 1.252471962
+    "percapita": 0.687168979
   },
   {
     "Ancestry": "Macedonian",
     "State": "Florida",
-    "percapita": 2.420438723
+    "percapita": 1.228554523
   },
   {
     "Ancestry": "Macedonian",
     "State": "Indiana",
-    "percapita": 18.686078389
+    "percapita": 8.801163585
   },
   {
     "Ancestry": "Macedonian",
     "State": "Nebraska",
-    "percapita": 0.204290164
+    "percapita": 0.308264191
   },
   {
     "Ancestry": "Macedonian",
     "State": "Maryland",
-    "percapita": 0.536661385
+    "percapita": 0.605715106
   },
   {
     "Ancestry": "Macedonian",
     "State": "Wisconsin",
-    "percapita": 7.960243292
+    "percapita": 0.807633228
   },
   {
     "Ancestry": "Macedonian",
     "State": "Delaware",
-    "percapita": 0.091061826
+    "percapita": 0.06412901
   },
   {
     "Ancestry": "Macedonian",
     "State": "Colorado",
-    "percapita": 0.956438401
+    "percapita": 0.64228642
   },
   {
     "Ancestry": "Macedonian",
     "State": "Arizona",
-    "percapita": 1.699046882
+    "percapita": 0.74872049
   },
   {
     "Ancestry": "Macedonian",
     "State": "Washington",
-    "percapita": 2.421194968
+    "percapita": 0.634423418
   },
   {
     "Ancestry": "Macedonian",
     "State": "Utah",
-    "percapita": 0.893766299
+    "percapita": 0.190288362
   },
   {
     "Ancestry": "Macedonian",
     "State": "Nevada",
-    "percapita": 2.74341599
+    "percapita": 1.282096891
   },
   {
     "Ancestry": "Macedonian",
     "State": "Connecticut",
-    "percapita": 14.418339187
+    "percapita": 3.750684312
   },
   {
     "Ancestry": "Macedonian",
     "State": "Texas",
-    "percapita": 3.659652955
+    "percapita": 0.399525792
   },
   {
     "Ancestry": "Macedonian",
     "State": "North Carolina",
-    "percapita": 6.274662534
+    "percapita": 0.466614722
   },
   {
     "Ancestry": "Macedonian",
     "State": "New York",
-    "percapita": 9.514314412
+    "percapita": 4.791295066
   },
   {
     "Ancestry": "Macedonian",
     "State": "Pennsylvania",
-    "percapita": 14.045090236
+    "percapita": 1.158970656
   },
   {
     "Ancestry": "Macedonian",
     "State": "Georgia",
-    "percapita": 2.381017794
+    "percapita": 0.334741526
   },
   {
     "Ancestry": "Macedonian",
     "State": "Missouri",
-    "percapita": 4.748045827
+    "percapita": 0.801505511
   },
   {
     "Ancestry": "Macedonian",
     "State": "New Jersey",
-    "percapita": 29.238980961
+    "percapita": 6.822421803
   },
   {
     "Ancestry": "Macedonian",
     "State": "Virginia",
-    "percapita": 0.827016242
+    "percapita": 0.701392901
   },
   {
     "Ancestry": "Macedonian",
     "State": "California",
-    "percapita": 5.207374494
+    "percapita": 0.718768121
   }
 ]
