@@ -76,7 +76,7 @@ $(document).ready(function() {
             .text(function(d) {
                 return d[2];
             }).each(function() {
-                labelWidth = Math.ceil(Math.max(labelWidth, (this.getBBox().width) - 18));
+                labelWidth = Math.ceil(Math.max(labelWidth, (this.getBBox().width) + 5));
             }).attr("font-family", "sans-serif");
 
 
@@ -92,7 +92,7 @@ $(document).ready(function() {
                 return scale(parseFloat(d[1]));
             });
         bar.append("text")
-            .attr("transform", "translate(" + labelWidth + " , 0)")
+            .attr("transform", "translate(" + labelWidth + ", 0)")
             .attr("class", "percent-label")
             .attr("y", barHeight / 2)
             .attr("x", function(d){
