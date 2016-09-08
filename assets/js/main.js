@@ -76,7 +76,7 @@ $(document).ready(function() {
             .text(function(d) {
                 return d[2];
             }).each(function() {
-                labelWidth = Math.ceil(Math.max(labelWidth, (this.getBBox().width)));
+                labelWidth = Math.ceil(Math.max(labelWidth, (this.getBBox().width) - 18));
             }).attr("font-family", "sans-serif");
 
 
