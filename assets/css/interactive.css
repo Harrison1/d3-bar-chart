@@ -577,6 +577,27 @@
     fill: #3a3a3a;
 }
 
-.bar-to {
+.bar-to:nth-child(1) {
     fill: #145ee7;
+}
+
+.bar-to:nth-child(2) {
+    fill: red;
+}
+
+.bar-to:nth-child(3) {
+    fill: blue;
+}
+
+.bar-to:nth-child(4) {
+    fill: purple;
+}
+.bar-to:nth-child(5) {
+    fill: black;
+}
+.bar-to:nth-child(6) {
+    fill: green;
+}
+.bar-to:nth-child(7) {
+    fill: yellow;
 }
