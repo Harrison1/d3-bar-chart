@@ -126,6 +126,8 @@ $(document).ready(function() {
 ;var barColors = ['#f00', '#abc', '#123'];
 var i = 0;
 $('.bar-to').each(function() {
+    console.log("I am here");
     $(this).css('fill', barColors[i]);
     i = (i + 1) % barColors.length;
+    console.log("I am here2");
 });
