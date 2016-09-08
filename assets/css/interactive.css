@@ -574,5 +574,9 @@
 }
 
 .label {
-    color: #717b6a;
+    fill: #3a3a3a;
+}
+
+.bar-to {
+    fill: #145ee7;
 }
