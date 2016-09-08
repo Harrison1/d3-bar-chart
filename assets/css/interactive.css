@@ -576,27 +576,26 @@
 .label {
     fill: #3a3a3a;
 }
-
 .bar-to:nth-child(1) {
-    fill: #171CFF;
+    fill: #42a5f5;
 }
 
 .bar-to:nth-child(2) {
-    fill: #1C17FF;
+    fill: #2196f3;
 }
 
 .bar-to:nth-child(3) {
-    fill: #2013FF;
+    fill: #1e88e5;
 }
 
 .bar-to:nth-child(4) {
-    fill: #250EFF;
+    fill: #1976d2;
 }
 .bar-to:nth-child(5) {
-    fill: #2A09FF;
+    fill: #1565c0;
 }
 .bar-to:nth-child(6) {
-    fill: #2E05FF;
+    fill: #0d47a1;
 }
 .bar-to:nth-child(7) {
     fill: #3300FF;
