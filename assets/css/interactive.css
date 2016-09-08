@@ -91,12 +91,14 @@
     letter-spacing: 0.5px;
     font-size: 12px;
     fill: #002135;
+    color: #717b6a;
 }
 #interactive .percent-label {
     font-family: 'Oswald', Helvetica, sans-serif;
     letter-spacing: 0.5px;
     font-size: 11px;
     fill: #002135;
+    color: #717b6a;
 }
 #interactive .axis path {
     fill: none;
@@ -437,6 +439,7 @@
     #interactive .label {
         letter-spacing: 1px;
         font-size: 11px;
+        color: #717b6a;
     }
 }
 @media (max-width: 550px) {
@@ -514,6 +517,7 @@
     #interactive .label {
         letter-spacing: 1px;
         font-size: 10px;
+        color: #717b6a;
     }
 }
 
@@ -555,6 +559,7 @@
     #interactive .label {
         letter-spacing: 1px;
         font-size: 9px;
+        color: #717b6a;
     }
 }
 @media (max-width: 235px) {
