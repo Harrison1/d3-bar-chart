@@ -25,7 +25,7 @@ $(document).ready(function() {
     }
     function clearCanvas() {
         $('#container_to').html(' ');
-        $('#container_to').html('<div id="chart_to"></div>');
+        $('#container_to').html('<div id="chart_to" style="background: #dcf5d7;"></div>');
     }
     function chart(name, data) {
         clearCanvas();
