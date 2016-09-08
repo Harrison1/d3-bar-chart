@@ -86,13 +86,13 @@ $(document).ready(function() {
 
         
         bar.append("rect")
-            .attr("transform", "translate(" + labelWidth + ", 0)")
+            .attr("transform", "translate(" + labelWidth-18 + ", 0)")
             .attr("height", barHeight)
             .attr("width", function(d) {                    
                 return scale(parseFloat(d[1]));
             });
         bar.append("text")
-            .attr("transform", "translate(" + labelWidth + ", 0)")
+            .attr("transform", "translate(" + labelWidth-18 + " , 0)")
             .attr("class", "percent-label")
             .attr("y", barHeight / 2)
             .attr("x", function(d){
