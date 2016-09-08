@@ -393,3 +393,8 @@ h6.normal {
 .chart-bg {
     background: #dcf5d7;
 }
+
+.percent-label {
+    fill: #727b6b;
+    font-weight: 700;
+}
