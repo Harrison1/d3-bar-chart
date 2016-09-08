@@ -577,7 +577,7 @@
     fill: #3a3a3a;
 }
 .bar-to:nth-child(1) {
-    fill: #3300FF;
+    fill: #0d47a1;
 }
 
 .bar-to:nth-child(2) {
@@ -587,40 +587,39 @@
     fill: #1565c0;
 }
 .bar-to:nth-child(4) {
-    fill: #1976d2;
+    fill: #1565c0;
 }
 .bar-to:nth-child(5) {
-    fill: #1e88e5;
+    fill: #1976d2;
 }
 .bar-to:nth-child(6) {
-    fill: #2196f3;
+    fill: #1976d2;
 }
 .bar-to:nth-child(7) {
-    fill: #42a5f5;
+    fill: #1e88e5;
 }
 .bar-to:nth-child(8) {
-    fill: #3309FF;
+    fill: #1e88e5;
 }
-
 .bar-to:nth-child(9) {
-    fill: #3313FF;
+    fill: #2196f3;
 }
 
 .bar-to:nth-child(10) {
-    fill: #331CFF;
+    fill: #2196f3;
 }
 
 .bar-to:nth-child(11) {
-    fill: #3325FF;
+    fill: #42a5f5;
 }
 .bar-to:nth-child(12) {
-    fill: #332EFF;
+    fill: #42a5f5;
 }
 .bar-to:nth-child(13) {
-    fill: #3338FF;
+    fill: #3309FF;
 }
 .bar-to:nth-child(14) {
-    fill: #3341FF;
+    fill: #3309FF;
 }
 
 .bar-to:nth-child(15) {
