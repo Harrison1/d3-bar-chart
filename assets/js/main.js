@@ -123,7 +123,7 @@ $(document).ready(function() {
     });
 });
 
-var barColors = ['#f00', '#abc', '#123'];
+;var barColors = ['#f00', '#abc', '#123'];
 var i = 0;
 $('.bar-to').each(function() {
     $(this).css('fill', barColors[i]);
