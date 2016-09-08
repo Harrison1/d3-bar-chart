@@ -91,7 +91,7 @@ $(document).ready(function() {
             .attr("width", function(d) {                    
                 return scale(parseFloat(d[1]));
             });
-        bar.append("p")
+        bar.append("text")
             .attr("transform", "translate(" + labelWidth + ", 0)")
             .attr("class", "percent-label")
             .attr("y", barHeight / 2)
