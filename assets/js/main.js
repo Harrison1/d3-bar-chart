@@ -2,8 +2,8 @@ $(document).ready(function() {
     $('select').selectpicker({
         style: 'btn-info'
     });
-    setChart('AFG');
-    $('.name-container').text('Afghan');
+    setChart('IRI');
+    $('.name-container').text('Irish');
     $('select').change(function() {
         var st = $(this).find('option:selected').attr('data-abv');
         $('.name-container').text($(this).find('option:selected').attr('data-name'));
@@ -57,7 +57,7 @@ $(document).ready(function() {
         }));
         svg = d3.select(chart)
             .append("svg")
-            .attr("width", width-50)
+            .attr("width", width+35)
             .attr("height", height);
 
         bar = svg.selectAll("g")
