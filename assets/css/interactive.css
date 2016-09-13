@@ -364,9 +364,9 @@
 }
 
 .wrapper {
-    height: 900px;
-    overflow-x: hidden;
-    overflow-y: scroll;
+    // height: 900px;
+    overflow-x: auto;
+    overflow-y: auto;
 }
 
 @media (max-width: 710px) {
