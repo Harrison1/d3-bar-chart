@@ -57,7 +57,7 @@ $(document).ready(function() {
         }));
         svg = d3.select(chart)
             .append("svg")
-            .attr("width", width)
+            .attr("width", width-50)
             .attr("height", height);
 
         bar = svg.selectAll("g")
