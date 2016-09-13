@@ -2,8 +2,8 @@ $(document).ready(function() {
     $('select').selectpicker({
         style: 'btn-info'
     });
-    setChart('IRI');
-    $('.name-container').text('Irish');
+    setChart('AFG');
+    $('.name-container').text('Afghan');
     $('select').change(function() {
         var st = $(this).find('option:selected').attr('data-abv');
         $('.name-container').text($(this).find('option:selected').attr('data-name'));
