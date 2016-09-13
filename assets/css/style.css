@@ -370,28 +370,28 @@ h6.normal {
   .one > div {
     height: 80px;
   }
+
+  .r .top {
+  border-bottom: 50px solid transparent;
+ }
+
+ .r .bottom {
+  border-bottom: 0px solid transparent;
+ }
+
+ .arrow.top {
+     border-bottom: 50px solid transparent;
+  }
+
+ .arrow.bottom {
+     border-top: 55px solid transparent;
+ }
 }
 
 @media all and (max-width: 600px) {
   .one > div {
     height: 80px;
   }
-
-  .r .top {
-    border-bottom: 50px solid transparent;
-   }
-
-   .r .bottom {
-    border-bottom: 55px solid transparent;
-   }
-
-   .arrow.top {
-       border-bottom: 50px solid transparent;
-    }
-
-   .arrow.bottom {
-       border-top: 55px solid transparent;
-   }
 
   .skew.l {
     left: 7.2%;
