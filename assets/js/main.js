@@ -118,7 +118,7 @@ $(document).ready(function() {
     $(window).resize(function() {
         if ($(window).width() < 1024) {
             var st = $('#accident_state').find('option:selected').attr('data-abv');
-            if(d=='') {setChart(st);}
+            // if(d=='') {setChart(st);}
         }
     });
 });

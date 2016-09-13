@@ -387,15 +387,19 @@ h6.normal {
 
 #chart_to {
     background: #dcf5d7;
-    padding: 10px;
 }
 
 .chart-bg {
     background: #dcf5d7;
+    padding: 10px;
 }
 
 .percent-label {
     fill: #727b6b;
     font-weight: 700;
     font-size: 14px;
+}
+
+.padding0 {
+  padding: 0;
 }
