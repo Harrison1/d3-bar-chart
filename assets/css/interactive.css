@@ -364,7 +364,7 @@
 }
 
 .wrapper {
-    // height: 900px;
+    height: 100%;
     overflow-x: auto;
     overflow-y: auto;
 }
