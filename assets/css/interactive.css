@@ -753,3 +753,10 @@
 svg:not(:root) {
     overflow: inherit;
 }
+
+.abs-bg {
+    position: absolute; 
+    background: #dcf5d7; 
+    width: 850px; 
+    height: 1100px;
+}
