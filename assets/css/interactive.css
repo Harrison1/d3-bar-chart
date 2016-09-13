@@ -749,3 +749,7 @@
 .bar-to:nth-child(50) {
     fill: #66F6FF;
 }
+
+svg:not(:root) {
+    overflow: inherit;
+}
