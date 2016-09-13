@@ -758,6 +758,6 @@ svg:not(:root) {
 .abs-bg {
     position: absolute; 
     background: #dcf5d7; 
-    width: 850px; 
+    width: 100%; 
     height: 1100px;
 }
