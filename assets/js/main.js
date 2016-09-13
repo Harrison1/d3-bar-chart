@@ -89,7 +89,7 @@ $(document).ready(function() {
             .attr("transform", "translate(" + labelWidth + ", 0)")
             .attr("height", barHeight)
             .attr("width", function(d) {                    
-                return scale(parseFloat(d[1]))-100;
+                return scale(parseFloat(d[1]));
             });
         bar.append("text")
             .attr("transform", "translate(" + labelWidth + ", 0)")
